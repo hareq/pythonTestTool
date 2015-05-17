@@ -1,0 +1,41 @@
+receipt:     compileconfig
+date:        2015-05-05
+
+
+
+
+
+config:
+     type：替换
+     ctrip：
+        type： hotle
+
+
+ignore:
+    ignoreconfig:  忽略
+        type:      airport
+    ignorevlue:
+        url:
+
+
+
+
+config:
+     type：替换
+
+
+ignore:
+    ignoreconfig:
+        type:      airport
+    ignorevlue:
+        url:
+
+
+
+p1:
+  type:__ignore__
+  select:
+    type:hotel
+    price:xxxx
+    keyword:xxx
+  ignore

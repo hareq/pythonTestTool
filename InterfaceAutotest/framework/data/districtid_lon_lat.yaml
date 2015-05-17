@@ -1,0 +1,71 @@
+receipt:     SearchTestList
+date:        2015-05-05
+- city:
+    cityname:    上海
+    lon:         121.35801673
+    lat:         31.22016018
+    districtid:  2
+    cityid:
+
+- city:
+    cityname:    江苏
+    lon:         120.545916
+    lat:         31.315913
+    districtid:  100066
+    cityid:
+
+- city:
+    cityname:    北京
+    lon:         116.019338
+    lat:         40.36708
+    districtid:  1
+    cityid:
+
+- city:
+    cityname:    昆山
+    lon:
+    lat:
+    districtid:
+    cityid:
+
+- city:
+    cityname:    香港
+    lon:
+    lat:
+    districtid:
+    cityid:
+
+- city:
+    cityname:    澳门
+    lon:
+    lat:
+    districtid:
+    cityid:
+
+- city:
+    cityname:    台湾
+    lon:
+    lat:
+    districtid:
+    cityid:
+
+- city:
+    cityname:    台北
+    lon:
+    lat:
+    districtid:
+    cityid:
+
+- city:
+    cityname:    法国
+    lon:
+    lat:
+    districtid:
+    cityid:
+
+- city:
+    cityname:    巴黎
+    lon:
+    lat:
+    districtid:
+    cityid:
