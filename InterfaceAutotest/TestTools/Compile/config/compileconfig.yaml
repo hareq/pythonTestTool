@@ -1,0 +1,18 @@
+receipt:     compileconfig
+date:        2015-05-05
+
+config:
+    - p:
+        type:                    ignore_vlue
+        where:
+            type:                airport
+            url:                 session
+        ignore:
+            url:                 [a-zA-Z0-9]+\@+[a-zA-Z0-9]+\.+[a-zA-Z]
+
+    - p:
+        type:                     list_num
+        where:
+            type:                 hotel
+        ignore:
+            keyword:              word

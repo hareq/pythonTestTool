@@ -1,0 +1,74 @@
+receipt:     SearchTestList
+date:        2015-05-05
+url:
+    url:        http://ipvlue/bodyvlue?keyword=keywordvlue&action=actionvlue&source=sourcevlue&lon=lonvlue&lat=latvlue&districtid=districtidvlue
+    ip:         ipvlue
+    keyword:    keywordvlue
+    source:     sourcevlue
+    districtid: districtidvlue
+    lon:        lonvlue
+    lat:        latvlue
+    action:     actionvlue
+    body:       bodyvlue
+
+urlvlue:
+      bodyvlue:                  appautocomplete/search
+      actionvlue:                autocomplete
+      lonvlue:                   121.35801673
+      latvlue:                   31.22016018
+      districtidvlue:            2
+      ipvlue:                    10.2.25.24:8180
+      sourcevlue:                globalapp65
+
+urlcompile:
+      ipcompile:             10.2.25.24:8180
+      sourcecompile:         globalapp63
+
+channel:
+        channelplane:
+          keyword:             机票,飞机票,飞机,航空,东方航空,国泰航空,港龙航空,中华航空,澳航,全日空,芬兰航空,韩亚航空,阿联酋航空,大韩航空,春秋航空,厦门航空
+          type:                channelplane
+        channelhotel:
+          keyword:             酒店,旅馆,宾馆,住宿,旅店,旅社
+          type:                channelhotel
+        channelticket:
+          keyword:             门票,景点门票
+          type:                channelticket
+        feature:
+          keyword:             景点,攻略
+          type:                channelgs
+        channeltravel:
+          keyword:             旅游
+          type:                channeltravel
+        travelgroup:
+          keyword:             跟团游,旅行社,旅游团
+          type:                travelgroup
+        flighthotel:
+          keyword:             自由行
+          type:                flighthotel
+        channelgroup:
+          keyword:             团购
+          type:                channelgroup
+        channeltrain:
+          keyword:             火车票,火车,列车,高铁,动车
+          type:                channeltrain
+        channelbus:
+          keyword:             汽车,汽车票
+          type:                channelbus
+        channelgs:
+          keyword:             当地,导游,地接
+          type:                channelgs
+        channeltrain:
+          keyword:             保险
+          type:                channelinsurance
+
+flightschedule:
+        flightschedule1:
+          keyword:             FJ411,S6010,VS4241,S48765,s48020
+          type:                flightschedule
+        flightschedule2:
+          keyword:             S48,VS4,mu532
+          type:                flightschedule
+        flightschedule3:
+          keyword:             3U8952,mu5537,QG8818
+          type:                flightschedule
