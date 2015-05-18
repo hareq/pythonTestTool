@@ -9,8 +9,11 @@ class IgnoreVlueRule:
         rlue = self.rlue
         try:
             for n in range(len(json.loads(json)["data"])):
+                Ignorebit == ""
                 for m in range(len(rlue["p"]["where"])):
                     Ignorebit = Where.select(rlue,json,n,m)
+                    if Ignorebit == "0":
+                        break
                 if Ignorebit == "1":
                     for o in range(len(rlue["p"]["ignore"])):
                         ignorekey = rlue["p"]["ignore"].keys()[o]

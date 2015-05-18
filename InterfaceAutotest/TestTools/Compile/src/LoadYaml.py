@@ -10,7 +10,7 @@ def loadYaml():
     for n in range(len(rules)):
         if rules[n]["p"][type] == "ignore_vlue":
             rulesobj.add(IgnoreVlue.IgnoreVlueRule(rules[n]))
-        else :
+        else:
             pass
 
     #return rules;
