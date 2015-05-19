@@ -7,3 +7,4 @@ def chinese_decode(vlue):
     return urllib.quote(vlue)
 
 
+print chinese_decode("上海")

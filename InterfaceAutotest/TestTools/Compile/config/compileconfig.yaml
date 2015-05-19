@@ -3,16 +3,17 @@ date:        2015-05-05
 
 config:
     - p:
-        type:                    ignore_vlue
+        type:                     ignore_vlue
         where:
-            type:                airport
-            url:                 session
+            type:                 airport
+            url:                  session
         ignore:
-            url:                 [a-zA-Z0-9]+\@+[a-zA-Z0-9]+\.+[a-zA-Z]
+            url:                  a
 
     - p:
-        type:                     list_num
+        type:                     ignore_vlue
         where:
             type:                 hotel
         ignore:
-            keyword:              word
+            url:
+

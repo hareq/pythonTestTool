@@ -1,0 +1,19 @@
+receipt:     compileconfig
+date:        2015-05-05
+
+config:
+    - p:
+        type:                     ignore_vlue
+        where:
+            type:                 airport
+            url:                  session
+        ignore:
+            url:                  a
+
+    - p:
+        type:                     ignore_vlue
+        where:
+            type:                 hotel
+        ignore:
+            url:
+
