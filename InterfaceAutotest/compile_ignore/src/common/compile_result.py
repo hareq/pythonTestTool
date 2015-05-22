@@ -5,13 +5,16 @@ import sys
 import urllib
 import time
 
-from framework.trd import read_excel
-from framework.httpbase import http
+from common.trd import read_excel
+from common.httpbase import http
 from compile_ignore.src.common import filter, loadreg, filewrite
 from compile_ignore.src.common import urlget
+from compile_ignore.src.common import logger
+
+log = logger.logger()
 
 def compile_result(testobj):
-    print testobj
+    #print testobj
     file = 'config\cfg_allsearch\datebase.xls'
     data = read_excel.open_excel(file)
     table = data.sheet_by_name('all')
@@ -31,17 +34,20 @@ def compile_result(testobj):
 
         url1 = urlget.urlall(url1,keyword_quote)
         url2 = urlget.urlall(url2,keyword_quote)
-        print url1
 
         content1 = http.getresponse_url(url1)
         content2 = http.getresponse_url(url2)
-        for m in range(len(loadreg.loadreg())):
-            content1 = filter.leftpart(content1, loadreg.loadreg()[m])
-            content2 = filter.leftpart(content2, loadreg.loadreg()[m])
+
+        for m in loadreg.loadreg():
+            content1 = filter.leftpart(content1, m)
+            content2 = filter.leftpart(content2, m)
         if content1 == content2:
-            print keyword,"正确"
+            log.info(str(url1))
+            log.info("正确")
         else:
-            print keyword,"错误"
+            log.info(str(url2))
+            log.info("错误")
+
         time.sleep(1)
         filewrite.filewrite(f1,content1,keyword)
         filewrite.filewrite(f2,content2,keyword)

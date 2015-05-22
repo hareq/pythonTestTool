@@ -47,9 +47,20 @@ def filter(src,regStr):
                 result.append(match.groups())
                 flag=True
     result.append(stringLeft)
+    return result
+
+
+def leftpart(src,regStr):
+    return filter(src,regStr)[len(filter(src,regStr))-1]
+
+
+def ignorepart(src,regStr):
+    if len(filter(src,regStr))>2:
+        for n in (len(filter(src,regStr))-1):
+            pass
 
 #	print result
-    return result
+
 
 
 str1='''{
@@ -345,6 +356,6 @@ print len(filter(str1,reg))
 a = filter(str1,reg)[30]
 print a
 
-f = open('output\gutest.txt', 'w')
+f = open('gutest.txt', 'w')
 f.write(a)
 f.close()

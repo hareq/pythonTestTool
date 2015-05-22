@@ -2,9 +2,9 @@
 
 all_search_app:
     url1:
-        'http://10.8.91.244:8180/appautocomplete/search?&action=autocomplete&source=globalapp65'
+        'http://10.8.119.199:8180/appautocomplete/search?&action=autocomplete&source=globalapp65'
     url2:
-        'http://10.8.91.241:8180/appautocomplete/search?&action=autocomplete&source=globalapp65'
+        'http://10.8.119.200:8180/appautocomplete/search?&action=autocomplete&source=globalapp65'
 
 all_search_h5:
     url1:
@@ -26,9 +26,9 @@ gs_app:
 
 gs_online:
     url1:
-        'http://10.8.119.199:8180/appautocomplete/search?&action=autocomplete&source=mobileweb'
+        'http://10.8.119.199:8180/appautocomplete/search?&action=autocomplete&source=jsweb'
     url2:
-        'http://10.8.119.200:8180/appautocomplete/search?&action=autocomplete&source=mobileweb'
+        'http://10.8.119.200:8180/appautocomplete/search?&action=autocomplete&source=jsweb'
 
 
 

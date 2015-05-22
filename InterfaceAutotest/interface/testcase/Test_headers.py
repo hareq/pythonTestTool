@@ -6,8 +6,8 @@ import urllib
 import unittest
 import sys
 
-from framework.trd import read_excel
-from framework.httpbase import http
+from common.trd import read_excel
+from common.httpbase import http
 
 
 class Test_headers(unittest.TestCase):

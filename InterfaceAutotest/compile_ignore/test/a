@@ -1,0 +1,113 @@
+{
+    "head": {
+        "auth": null,
+        "errcode": 0
+    },
+    "data": [
+        {
+            "word": "西塘",
+            "type": "hotdistrict",
+            "districtname": "嘉善",
+            "url": "ctrip://wireless/h5?path=destination&page=destination/index.html#place/xitang15.html"
+        },
+        {
+            "word": "西塘的全部旅游产品",
+            "type": "channeltravelsearch",
+            "districtname": "西塘",
+            "url": "ctrip://wireless/h5?path=tour&page=index.html%23tours%3Fkwd%3D%25E8%25A5%25BF%25E5%25A1%2598%26salecity%3D6"
+        },
+        {
+            "word": "西塘的全部酒店",
+            "type": "hotellist",
+            "districtname": "西塘",
+            "url": "ctrip://wireless/hotel_inland_list?c1=20150522&c2=20150523&c3=596"
+        },
+        {
+            "word": "嘉善宾馆",
+            "type": "desthotel",
+            "price": "实时计价",
+            "star": "四星级",
+            "zonename": " ",
+            "districtname": "嘉善",
+            "url": "ctrip://wireless/InlandHotel?checkInDate=20150518&checkOutDate=20150519&hotelId=646760"
+        },
+        {
+            "word": "嘉善梅园大酒店",
+            "type": "desthotel",
+            "price": "实时计价",
+            "star": "四星级",
+            "zonename": " ",
+            "districtname": "嘉善",
+            "url": "ctrip://wireless/InlandHotel?checkInDate=20150518&checkOutDate=20150519&hotelId=666846"
+        },
+        {
+            "word": "浙江世博大酒店",
+            "type": "desthotel",
+            "price": "实时计价",
+            "star": "五星级",
+            "zonename": "西塘 ",
+            "districtname": "嘉善",
+            "url": "ctrip://wireless/InlandHotel?checkInDate=20150518&checkOutDate=20150519&hotelId=469234"
+        },
+        {
+            "word": "西塘般若禅文化主题会所",
+            "type": "desthotel",
+            "price": "实时计价",
+            "star": "舒适型",
+            "zonename": "西塘景区内 ",
+            "districtname": "嘉善",
+            "url": "ctrip://wireless/InlandHotel?checkInDate=20150518&checkOutDate=20150519&hotelId=754900"
+        },
+        {
+            "word": "西塘顺风客栈",
+            "type": "desthotel",
+            "price": "实时计价",
+            "star": "舒适型",
+            "zonename": "西塘 ",
+            "districtname": "嘉善",
+            "url": "ctrip://wireless/InlandHotel?checkInDate=20150518&checkOutDate=20150519&hotelId=795419"
+        },
+        {
+            "word": "西塘优惠门票",
+            "type": "channelticketsearch",
+            "districtname": "西塘",
+            "url": "ctrip://wireless/ticket_list?c1=%E8%A5%BF%E5%A1%98"
+        },
+        {
+            "word": "西塘团购",
+            "type": "channelgroupsearch",
+            "districtname": "西塘",
+            "url": "ctrip://wireless/h5?url=dHVhbi9pbmRleC5odG1sI3dlYmFwcC90dWFuL2xpc3Q/Y2l0eWlkPTU5Ng==&type=1"
+        },
+        {
+            "word": "西塘风景区",
+            "type": "sight",
+            "districtname": "西塘排名前十",
+            "url": "ctrip://wireless/destination/toResInfo?name=%E8%A5%BF%E5%A1%98%E9%A3%8E%E6%99%AF%E5%8C%BA&type=1&id=17884"
+        },
+        {
+            "word": "烟雨长廊",
+            "type": "sight",
+            "districtname": "西塘排名前十",
+            "url": "ctrip://wireless/destination/toResInfo?name=%E7%83%9F%E9%9B%A8%E9%95%BF%E5%BB%8A&type=1&id=2094"
+        },
+        {
+            "word": "送子来凤桥",
+            "type": "sight",
+            "districtname": "西塘排名前十",
+            "url": "ctrip://wireless/destination/toResInfo?name=%E9%80%81%E5%AD%90%E6%9D%A5%E5%87%A4%E6%A1%A5&type=1&id=2098"
+        },
+        {
+            "word": "石皮弄",
+            "type": "sight",
+            "districtname": "西塘排名前十",
+            "url": "ctrip://wireless/destination/toResInfo?name=%E7%9F%B3%E7%9A%AE%E5%BC%84&type=1&id=2100"
+        },
+        {
+            "word": "西园",
+            "type": "sight",
+            "districtname": "西塘排名前十",
+            "url": "ctrip://wireless/destination/toResInfo?name=%E8%A5%BF%E5%9B%AD&type=1&id=2110"
+        }
+    ]
+}

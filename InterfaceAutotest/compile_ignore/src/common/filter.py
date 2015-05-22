@@ -9,7 +9,8 @@ def splitSrc(src):
     return pattern.finditer(src)
 
 def prepareString(src):
-    temp = unicode(src.strip(),  "UTF-8")
+    #temp = unicode(src.strip(),  "UTF-8")
+    temp = src.strip()
     if (temp[0] == '{'):
         temp= temp[1:]
     return temp;
@@ -49,7 +50,7 @@ def filter(src,regStr):
     return result
 
 def leftpart(src,regStr):
-    return filter(src,regStr)[len(filter(src,regStr))-1]
+    return "{"+filter(src,regStr)[len(filter(src,regStr))-1]
 
 def ignorepart(src,regStr):
     if len(filter(src,regStr))>2:
@@ -57,7 +58,7 @@ def ignorepart(src,regStr):
             pass
 
 
-reg = '"word(.*?),.*?price(.*?),.*?star(.*?),.*?zonename(.*?),.*?districtname(.*?),.*?hotelId=(\d+)'
+
 
 #print len(filter(str1,ignorereg))
 #print filter(str1,ignorereg)[59]

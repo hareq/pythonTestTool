@@ -1,0 +1,3 @@
+"word(.*?),.*?price(.*?),.*?star(.*?),.*?zonename(.*?),.*?districtname(.*?),.*?hotelId=(\d+)
+"word.*?type":(.*?),
+

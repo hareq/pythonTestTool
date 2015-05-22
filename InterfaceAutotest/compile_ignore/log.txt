@@ -1,0 +1,21 @@
+2015-05-22 18:36:27,532 - INFO: http://10.8.119.199:8180/appautocomplete/search?&action=autocomplete&source=globalapp65&keyword=%E4%B8%8A%E6%B5%B7&districtid=2&lon=121.35801673&lat=31.22016018
+2015-05-22 18:36:27,533 - INFO: 正确
+2015-05-22 18:36:30,453 - INFO: http://10.8.119.199:8180/appautocomplete/search?&action=autocomplete&source=globalapp65&keyword=%E5%8E%A6%E9%97%A8&districtid=2&lon=121.35801673&lat=31.22016018
+2015-05-22 18:36:30,453 - INFO: 正确
+2015-05-22 18:36:34,006 - INFO: http://10.8.119.199:8180/appautocomplete/search?&action=autocomplete&source=globalapp65&keyword=%E6%9D%AD%E5%B7%9E&districtid=2&lon=121.35801673&lat=31.22016018
+2015-05-22 18:36:34,007 - INFO: 正确
+2015-05-22 18:36:40,701 - INFO: http://10.8.119.199:8180/appautocomplete/search?&action=autocomplete&source=mobileweb&keyword=%E4%B8%8A%E6%B5%B7&districtid=2&lon=121.35801673&lat=31.22016018
+2015-05-22 18:36:40,701 - INFO: 正确
+2015-05-22 18:36:44,505 - INFO: http://10.8.119.199:8180/appautocomplete/search?&action=autocomplete&source=mobileweb&keyword=%E5%8E%A6%E9%97%A8&districtid=2&lon=121.35801673&lat=31.22016018
+2015-05-22 18:36:44,505 - INFO: 正确
+2015-05-22 18:36:47,415 - INFO: http://10.8.119.200:8180/appautocomplete/search?&action=autocomplete&source=mobileweb&keyword=%E6%9D%AD%E5%B7%9E&districtid=2&lon=121.35801673&lat=31.22016018
+2015-05-22 18:36:47,415 - INFO: 错误
+2015-05-22 18:36:54,081 - INFO: http://10.8.119.199:8180/appautocomplete/search?&action=autocomplete&source=gsapp64&keyword=%E4%B8%8A%E6%B5%B7&districtid=2&lon=121.35801673&lat=31.22016018
+2015-05-22 18:36:54,081 - INFO: 正确
+2015-05-22 18:36:57,016 - INFO: http://10.8.119.199:8180/appautocomplete/search?&action=autocomplete&source=gsapp64&keyword=%E5%8E%A6%E9%97%A8&districtid=2&lon=121.35801673&lat=31.22016018
+2015-05-22 18:36:57,016 - INFO: 正确
+2015-05-22 18:36:59,966 - INFO: http://10.8.119.200:8180/appautocomplete/search?&action=autocomplete&source=gsapp64&keyword=%E6%9D%AD%E5%B7%9E&districtid=2&lon=121.35801673&lat=31.22016018
+2015-05-22 18:36:59,966 - INFO: 错误
+2015-05-22 18:37:00,967 - INFO: <Thread(Thread-1, initial)>
+2015-05-22 18:37:00,967 - INFO: <Thread(Thread-2, initial)>
+2015-05-22 18:37:00,967 - INFO: <Thread(Thread-3, initial)>
