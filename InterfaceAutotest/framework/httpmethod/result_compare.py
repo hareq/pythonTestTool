@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 __author__ = 'guyh'
 
-from Framework.httpbase import http
+from framework.httpbase import http
 
 
 def compare_result_all(url1,url2):

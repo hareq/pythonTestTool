@@ -8,7 +8,7 @@ __author__ = 'guyh'
 import httplib
 import json
 
-from Framework.trd import url_sublit
+from framework.trd import url_sublit
 
 
 def HttpSendRequest(url):
