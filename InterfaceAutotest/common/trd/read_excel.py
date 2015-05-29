@@ -8,6 +8,17 @@ def open_excel(file):
      except Exception,e:
          print str(e)
 
+
+
+def sheets_name(file):
+    sheetname = []
+    b = xlrd.open_workbook(file)
+    count = len(b.sheets()) #sheet数量
+    for sheet in b.sheets():
+        sheetname.append(sheet.name)
+    return sheetname #sheet名称
+
+
 #根据索引获取Excel表格中的数据   参数:file：Excel文件路径     colnameindex：表头列名所在行的所以  ，by_index：表的索引
 def excel_table_byindex(file,colnameindex=1,by_index=1):
       data = open_excel(file)

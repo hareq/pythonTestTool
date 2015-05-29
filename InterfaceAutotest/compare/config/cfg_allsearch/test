@@ -1,0 +1,6 @@
+"word(.*?),.*?price(.*?),.*?star(.*?),.*?zonename(.*?),.*?districtname(.*?),.*?hotelId=(\d+)   酒店相关去掉
+("id.*?,).*?type.*?sight              景点的id去掉
+("price.*?,)                          价格去掉
+(SessionID.*?,)DayCount               SessionID去掉
+
+
