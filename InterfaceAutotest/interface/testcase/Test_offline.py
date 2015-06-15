@@ -1,17 +1,18 @@
 # -*- coding: UTF-8 -*-
 __author__ = 'guyh'
 import unittest
-import sys,urllib
-from common.httpbase import http
-from common.trd import read_excel
+import sys
+import urllib
+
+from common.trd.httpbase import http
 from interface.src import loadkeyword
+
+
 reload(sys)
 sys.setdefaultencoding('utf-8')
 from selenium import webdriver
-from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.common.keys import Keys
 import time
-from compare_allsearch.src.common import logger
+from common.ctrip import logger
 
 log = logger.logger()
 
@@ -24,7 +25,7 @@ class Test_offline(unittest.TestCase):
             keyword_quote = urllib.quote(keyword)
             url = url.replace("keyword_value",keyword_quote)
             if http.getresponse_url_python(url)["head"]["errcode"] != 0:
-                print keyword,http.getresponse_url_python(url)["head"]["errcode"]
+                print keyword, http.getresponse_url_python(url)["head"]["errcode"]
             assert http.getresponse_url_python(url)["head"]["errcode"] == 0
 
 

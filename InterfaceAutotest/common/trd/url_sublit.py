@@ -22,3 +22,5 @@ def url_split_zonename(url):
 
 def strfin_between(str,a,b):
     print 11
+
+#print url_ip("http://vacations.ctrip.com/around/p2712188s0.html")

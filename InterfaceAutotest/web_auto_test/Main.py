@@ -5,14 +5,17 @@ import threading
 from time import ctime
 
 from web_auto_test.common import Read_datebase
-from web_auto_test.module.old.Common import Browser
-from web_auto_test.module.old.Front import Invest, Module_Front_Url, Module_Front_Login
-from web_auto_test.module.old.Backstage import Module_Backstage_Login, Module_Backstage_Url, Module_Financing
+from web_auto_test.main.web.old.Backstage import Module_Backstage_Login, Module_Backstage_Url, Module_Financing
 import config.common_config
+
+
 
 ######################
 #    对象定义    #
 ######################
+from web_auto_test.main.web.old.Common import Browser
+from web_auto_test.main.web.old.Front import Invest, Module_Front_Login, Module_Front_Url
+
 browser = Browser.browser()
 module_front_Url = Module_Front_Url.front_url()
 module_Backstage_Url = Module_Backstage_Url.Backstage_url()

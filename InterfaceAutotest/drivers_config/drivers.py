@@ -3,7 +3,7 @@
 __author__ = 'guyh'
 from common.trd import read_excel
 
-file = 'testdata.xls'
+file = 'datebasea.xls'
 data = read_excel.open_excel(file)
 table = data.sheet_by_name('2')
 table1 = data.sheet_by_name('1')
@@ -33,5 +33,7 @@ for row_date in range(0, read_excel.rownum(file,'1')):
 
 print bb
 print aa
+for c in cc:
+    print c
 print "no in",cc
 print "in",dd

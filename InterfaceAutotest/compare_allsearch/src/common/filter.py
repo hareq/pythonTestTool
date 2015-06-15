@@ -60,6 +60,6 @@ def ignorepart(src,regStr):
 
 
 
-#print len(filter(str1,ignorereg))
-#print filter(str1,ignorereg)[59]
+#print len(filter(str1,regular_config))
+#print filter(str1,regular_config)[59]
 

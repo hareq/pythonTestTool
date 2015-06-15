@@ -7,7 +7,7 @@ import unittest
 import sys
 
 from common.trd import read_excel
-from common.httpbase import http
+from common.trd.httpbase import http
 
 
 class Test_headers(unittest.TestCase):

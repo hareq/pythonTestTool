@@ -6,7 +6,7 @@ import os
 def urlget(testobj):
     nowcmd = os.getcwd()
     #print nowcmd
-    f = file('config/cfg_allsearch/urlconfig.yaml','r')
+    f = file('config/cfg_allsearch/url_config.yaml','r')
     return yaml.load(f)[testobj]
 
 def urlall(url,keyword):

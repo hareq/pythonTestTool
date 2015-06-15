@@ -1,10 +1,11 @@
 # -*- coding: UTF-8 -*-
 __author__ = 'guyh'
 
-from compare_allsearch.src.ctrip import all_search_app,all_search_h5,all_search_online,gs_app,gs_online,all_search_offline
 import threading
-from compare_allsearch.src.common import logger
-import sys
+
+from compare_allsearch.src.ctrip import all_search_app,all_search_h5,all_search_online,gs_app
+from common.ctrip import logger
+
 log = logger.logger()
 
 

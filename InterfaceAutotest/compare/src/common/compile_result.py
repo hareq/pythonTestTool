@@ -3,14 +3,12 @@
 __author__ = 'guyh'
 import sys
 import urllib
-import time
 
-from common.trd import read_excel
-from common.httpbase import http
+from common.trd.httpbase import http
 from compare_allsearch.src.common import filter, loadreg, filewrite
 from compare_allsearch.src.common import urlget
-from compare_allsearch.src.common import logger
-from compare_allsearch.src.common import loadkeyword
+from common.ctrip import loadkeyword, logger
+
 
 log = logger.logger()
 

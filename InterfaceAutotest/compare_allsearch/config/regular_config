@@ -1,0 +1,12 @@
+#前面加注释符，此行不生效
+
+#"word(.*?),.*?price(.*?),.*?star(.*?),.*?zonename(.*?),.*?districtname(.*?),.*?hotelId=(\d+)   酒店相关去掉1
+#("id.*?,).*?type.*?sight              景点的id去掉
+#("price.*?,)                          价格去掉
+#(SessionID.*?)DayCount               SessionID去掉
+#"word(.*?),.*?price(.*?),.*?star(.*?),.*?zonename(.*?),.*?districtname.*?,.*?checkInDate=(.*?)checkOutDate=(.*?)hotelId(.*?)} 酒店相关去掉2
+#"type": "sighthotel","districtname":(.*?),
+#"word(.*?),.*?price(.*?),.*?star(.*?),.*?zonename(.*?),.*?districtname(.*?),.*?checkInDate=(.*?)checkOutDate=(.*?)hotelId(.*?)}
+#"type": "sighthotel","districtname":(.*?),
+#"districtname":(.*?),
+#"url"(.*?)}

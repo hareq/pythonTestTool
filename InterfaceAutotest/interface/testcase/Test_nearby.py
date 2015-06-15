@@ -3,7 +3,7 @@ __author__ = 'guyh'
 import unittest
 import sys
 
-from common.httpbase import http
+from common.trd.httpbase import http
 
 
 reload(sys)
