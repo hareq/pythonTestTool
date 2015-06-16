@@ -5,9 +5,6 @@ import sys
 from array import array
 from common.trd.httpbase import http
 from landmark.common_landmark import getdata,geturl
-import tornado.ioloop
-
-
 
 
 reload(sys)
@@ -48,7 +45,7 @@ def total(content):
     try:
         return GetMiddleStr(content,"<total>","</total>")
     except:
-        return "-1"
+        print "没有找到total",content,
 
 def name(content):
     try:
@@ -92,36 +89,22 @@ def identityid(content):
     except:
         pass
 
-
-def handle_request_base(response):
-    print 'call'
-    if total(response.body) == "0":#测试total的个数
-        #print response.body
-        print "关键字测试","测试total结果错误","测试的keyword为:"
-    else:
-        pass
-    global ii
-    print ii
-    ii -= 1
-    if ii == 0:
-        tornado.ioloop.IOLoop.instance().stop()
-
-
-def checkout_base(http_client,data):
+def checkout_base(data):
+    try:
         db_cityname = array('u', data[7]).tostring()[::2].decode('gbk')
         db_keyword = data[2]
         url = geturl.geturl(db_cityname,db_keyword)  #此处需要替换
         #log.info(url)
-        global ii
-        ii += 1
-        http_client.fetch(url,handle_request_base) # here we try
-        #content = http.getresponse_url(url)
-        # if total(content) == "0":#测试total的个数
-        #     print "关键字测试","测试total结果错误","测试的keyword为:"db_keyword,"城市为",db_cityname
-        # else:
-        #     pass
+        content = http.getresponse_url(url)
 
-ii = 0
+        if total(content) == "0":#测试total的个数
+            print "关键字测试","测试total结果错误","测试的keyword为:",db_keyword,"城市为",db_cityname
+        else:
+            pass
+    except:
+        pass
+
+
 def checkout_province(data):
     try:
         db_cityname = array('u', data[7]).tostring()[::2].decode('gbk')

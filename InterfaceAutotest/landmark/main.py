@@ -19,7 +19,7 @@ import profile
 profile.run("test_case.base_test()")
 
 
-#
+
 # threads = []
 # t1 = threading.Thread(target=test_case.base_test(),args=(u'a',))
 # threads.append(t1)
@@ -31,7 +31,7 @@ profile.run("test_case.base_test()")
 # threads.append(t4)
 # t5 = threading.Thread(target=test_case.province_test(),args=(u'd',))
 # threads.append(t5)
-#
+
 # if __name__ == '__main__':
 #     for t in threads:
 #         #log.info(t)

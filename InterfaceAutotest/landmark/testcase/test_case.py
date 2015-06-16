@@ -2,8 +2,7 @@
 __author__ = 'guyh'
 
 from landmark.common_landmark import getdata,geturl,checkpoint
-import tornado.ioloop
-from tornado.httpclient import AsyncHTTPClient
+
 
 
 def hotel_test():
@@ -53,24 +52,22 @@ def railwaystation_test():
 
 ##下面是按照关键字的类型分类测试
 def base_test():
-    http_client = AsyncHTTPClient()
     print "开始关键字测试"
     print "开始hotel_test"
     for data in getdata.hotel():
-        checkpoint.checkout_base(http_client,data)
+        checkpoint.checkout_base(data)
     print "开始markland_test"
     for data in getdata.markland():
-        checkpoint.checkout_base(http_client,data)
+        checkpoint.checkout_base(data)
     print "开始metrostation_test"
     for data in getdata.metrostation():
-        checkpoint.checkout_base(http_client,data)
+        checkpoint.checkout_base(data)
     print "开始airport_test"
     for data in getdata.airport():
-        checkpoint.checkout_base(http_client,data)
+        checkpoint.checkout_base(data)
     print "开始railwaystation_test"
     for data in getdata.railwaystation():
-        checkpoint.checkout_base(http_client,data)
-    tornado.ioloop.IOLoop.instance().start()
+        checkpoint.checkout_base(data)
 
 def city_test():
     print "开始关键字测试+城市"
