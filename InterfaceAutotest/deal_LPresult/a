@@ -1,0 +1,42 @@
+<table class="confluenceTable tablesorter"><thead><tr class="sortableHeader"><th class="confluenceTh sortableHeader" data-column="0"><div class="tablesorter-header-inner">线程数</div></th><th class="confluenceTh sortableHeader" data-column="1"><div class="tablesorter-header-inner">CPU利用率</div></th><th class="confluenceTh sortableHeader" data-column="2"><div class="tablesorter-header-inner">每秒处理http请求的个数</div></th><th class="confluenceTh sortableHeader" data-column="3"><div class="tablesorter-header-inner">90%的request响应时间</div></th><th class="confluenceTh sortableHeader" data-column="4"><div class="tablesorter-header-inner">最大响应时间</div></th></tr></thead><tbody><tr><td class="confluenceTd">1</td><td class="confluenceTd">12.78%</td><td class="confluenceTd">140.2</td><td class="confluenceTd">13<span>ms</span></td><td class="confluenceTd">201ms</td></tr><tr><td class="confluenceTd">10</td><td class="confluenceTd">76.06%</td><td class="confluenceTd">1171.9</td><td class="confluenceTd">18<span>ms</span></td><td class="confluenceTd">1012<span>ms</span></td></tr></tbody></table>
+<table id="result_table">
+<colgroup>
+<col align="left">
+<col align="right">
+<col align="right">
+<col align="right">
+<col align="right">
+<col align="right">
+</colgroup>
+<tbody><tr id="header_row">
+    <td>Test Group/Test case</td>
+    <td>Count</td>
+    <td>Pass</td>
+    <td>Fail</td>
+    <td>Error</td>
+    <td>View</td>
+</tr>
+
+<tr class="passClass">
+    <td>interface.testcase.Test_offline.Test_offline</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c1',1)">Detail</a></td>
+</tr>
+
+<tr id="pt1.1" class="hiddenRow">
+    <td class="none"><div class="testcase">errcode_Test</div></td>
+    <td colspan="5" align="center">pass</td>
+</tr>
+
+<tr id="total_row">
+    <td>Total</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>&nbsp;</td>
+</tr>
+</tbody></table>

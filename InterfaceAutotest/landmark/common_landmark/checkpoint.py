@@ -158,7 +158,7 @@ def checkout_district(data):
         url = geturl.geturl_district(db_cityname,db_keyword,db_district,db_province)  #此处需要替换
         #log.info(url)
         content = http.getresponse_url(url[0])
-        print total(content)
+        #print total(content)
 
         if total(content) == "0":#测试total的个数
             print "关键字+行政区测试","测试total结果错误","测试的keyword为:",db_keyword,"城市为",db_cityname,"行政区为：",db_district

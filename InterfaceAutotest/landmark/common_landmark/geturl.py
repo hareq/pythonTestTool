@@ -10,7 +10,7 @@ def geturl(cityname,keyword):
     allkeyword = cityname+'" AND address:"'+keyword
     allkeyword = str(allkeyword)
     allkeyword = urllib.quote(allkeyword)
-    url = 'http://10.2.6.81:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
+    url = 'http://10.8.118.151:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
     return url
 
 def geturl_city(cityname,keyword,province):
@@ -18,12 +18,12 @@ def geturl_city(cityname,keyword,province):
         allkeyword = cityname+'" AND address:"'+cityname+keyword
         allkeyword = str(allkeyword)
         allkeyword = urllib.quote(allkeyword)
-        url = 'http://10.2.6.81:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
+        url = 'http://10.8.118.152:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
     else:
         allkeyword = cityname+'" AND address:"'+keyword
         allkeyword = str(allkeyword)
         allkeyword = urllib.quote(allkeyword)
-        url = 'http://10.2.6.81:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
+        url = 'http://10.8.118.153:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
     return url,allkeyword
 
 def geturl_province(cityname,keyword,province):
@@ -32,13 +32,13 @@ def geturl_province(cityname,keyword,province):
         allkeyword = cityname+'" AND address:"'+province+keyword
         allkeyword = str(allkeyword)
         allkeyword = urllib.quote(allkeyword)
-        url = 'http://10.2.6.81:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
+        url = 'http://10.8.118.154:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
 
     else:
         allkeyword = cityname+'" AND address:"'+keyword
         allkeyword = str(allkeyword)
         allkeyword = urllib.quote(allkeyword)
-        url = 'http://10.2.6.81:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
+        url = 'http://10.8.118.151:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
     return url,allkeyword
 
 def geturl_district(cityname,keyword,district,province):
@@ -46,12 +46,12 @@ def geturl_district(cityname,keyword,district,province):
         allkeyword = cityname+'" AND address:"'+district+keyword
         allkeyword = str(allkeyword)
         allkeyword = urllib.quote(allkeyword)
-        url = 'http://10.2.6.81:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
+        url = 'http://10.8.118.152:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
     else:
         allkeyword = cityname+'" AND address:"'+keyword
         allkeyword = str(allkeyword)
         allkeyword = urllib.quote(allkeyword)
-        url = 'http://10.2.6.81:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
+        url = 'http://10.8.118.153:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
 
     return url,allkeyword
 
@@ -60,11 +60,11 @@ def geturl_downtown(cityname,keyword,downtown,province):
         allkeyword = cityname+'" AND address:"'+downtown+keyword
         allkeyword = str(allkeyword)
         allkeyword = urllib.quote(allkeyword)
-        url = 'http://10.2.6.81:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
+        url = 'http://10.8.118.154:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
     else:
         allkeyword = cityname+'" AND address:"'+keyword
         allkeyword = str(allkeyword)
         allkeyword = urllib.quote(allkeyword)
-        url = 'http://10.2.6.81:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
+        url = 'http://10.8.118.154:2210/geolocator/search?source=htlinterface&requestFormat=url&responseFormat=xml&query0=city:"'+allkeyword+'"&section0=1-15&return0=name,lat,lon,type,id,cityname,identityid'
 
     return url,allkeyword

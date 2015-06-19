@@ -21,9 +21,9 @@ for keyword in loadkeyword.load_keyword_from_AppTestCase():
     sys.setdefaultencoding('utf-8')
     keyword = str(keyword)
     keyword_quote = urllib.quote(keyword)
-    url1 = "http://10.8.91.244:8180/appautocomplete/search?keyword=keywordvalue&action=autocomplete&source=globalonline&type=test"
+    url1 = "http://10.8.91.244:8180/appautocomplete/search?keyword=keywordvalue&action=autocomplete&source=globalonline&type=case"
     url1 = url1.replace("keywordvalue",keyword_quote)
-    url2 = "http://10.8.91.244:8140/qrwservice/search?source=globalonline&action=autocomplete&keyword=keywordvalue&type=test"
+    url2 = "http://10.8.91.244:8140/qrwservice/search?source=globalonline&action=autocomplete&keyword=keywordvalue&type=case"
     url2 = url2.replace("keywordvalue",keyword_quote)
     result1 = http.getresponse_url(url1)
     result2 = http.getresponse_url(url2)
