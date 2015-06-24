@@ -2,7 +2,7 @@
 __author__ = 'guyh'
 import sys
 
-def filewrite(f,val1,val2):
+def filewrite_leftpart(f,val1,val2):
 
     reload(sys)
     sys.setdefaultencoding('utf-8')

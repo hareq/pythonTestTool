@@ -48,15 +48,25 @@ def filter(src,regStr):
     result.append(stringLeft)
     return result
 
-
 def leftpart(src,regStr):
-    return filter(src,regStr)[len(filter(src,regStr))-1]
-
+    print "guyanhua",len(filter(src,regStr))-1
+    return "{"+filter(src,regStr)[len(filter(src,regStr))-1]
 
 def ignorepart(src,regStr):
+    print 'a', src,regStr
+    nn = []
+    print "b,n,len",len(filter(src,regStr))
     if len(filter(src,regStr))>2:
-        for n in (len(filter(src,regStr))-1):
-            pass
+        for n in range((len(filter(src,regStr))-1)):
+            print "c,n",n
+            for m in filter(src,regStr)[n]:
+                print 'd',m
+                nn.append(','+m)
+    print 'e',nn,
+    return nn
+
+
+
 
 #	print result
 
@@ -346,16 +356,18 @@ str1='''{
         }
     ]
 }'''
-reg = '"word(.*?),.*?price(.*?),.*?star(.*?),.*?zonename(.*?),.*?districtname(.*?),.*?hotelId=(\d+)'
+#reg = '"word(.*?),.*?price(.*?),.*?star(.*?),.*?zonename(.*?),.*?districtname(.*?),.*?hotelId=(\d+)'
+reg = 'pppppp'
 
 reload(sys)
 sys.setdefaultencoding('utf8')
-print sys.getdefaultencoding()
-print "顾艳华"
 print len(filter(str1,reg))
-a = filter(str1,reg)[30]
-print a
-
-f = open('gutest.txt', 'w')
-f.write(a)
-f.close()
+print filter(str1,reg)[0]
+#a = filter(str1,reg)[0][1]
+#b = ignorepart(str1,reg)
+#for c in b:
+#    print c
+#
+# f = open('gutest.txt', 'w')
+# f.write(a)
+# f.close()

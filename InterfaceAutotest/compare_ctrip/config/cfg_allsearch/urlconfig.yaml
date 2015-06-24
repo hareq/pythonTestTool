@@ -18,9 +18,9 @@ all_search_h5:
 
 all_search_online:
     url1:
-        'http://10.2.25.24:8180/qrwservice/search?&action=autocomplete&source=globalonline'
+        'http://10.2.25.24:8180/appautocomplete/search?&action=autocomplete&source=globalonline'
     url2:
-        'http://10.2.25.25:8180/qrwservice/search?&action=autocomplete&source=globalonline'
+        'http://10.2.25.25:8180/appautocomplete/search?&action=autocomplete&source=globalonline'
 
 all_search_offline:
     url1:
@@ -43,9 +43,9 @@ gs_app66:
 
 gs_h5:
     url1:
-        'http://10.2.25.24:8180/appautocomplete/search?&action=autocomplete&source=jsweb'
+        'http://10.2.25.24:8180/appautocomplete/search?&action=autocomplete&source=gsweb'
     url2:
-        'http://10.2.25.25:8180/appautocomplete/search?&action=autocomplete&source=jsweb'
+        'http://10.2.25.25:8180/appautocomplete/search?&action=autocomplete&source=gsweb'
 
 
 

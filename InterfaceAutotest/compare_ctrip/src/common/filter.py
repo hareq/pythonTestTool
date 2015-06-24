@@ -53,9 +53,12 @@ def leftpart(src,regStr):
     return "{"+filter(src,regStr)[len(filter(src,regStr))-1]
 
 def ignorepart(src,regStr):
-    if len(filter(src,regStr))>2:
-        for n in (len(filter(src,regStr))-1):
-            pass
+    nn = []
+    if len(filter(src,regStr))>1:
+        for n in range((len(filter(src,regStr))-1)):
+            for m in filter(src,regStr)[n]:
+                nn.append(','+m)
+    return nn
 
 
 
