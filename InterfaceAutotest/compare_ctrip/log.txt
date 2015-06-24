@@ -1,0 +1,2004 @@
+2015-06-24 15:00:36,193 - INFO: start compile_result
+2015-06-24 15:00:36,194 - INFO: start get keyword
+2015-06-24 15:00:49,780 - INFO: start http getresponse_url
+2015-06-24 15:00:50,079 - INFO: 附近
+2015-06-24 15:00:50,079 - INFO: all_search_app65
+2015-06-24 15:00:50,079 - INFO: 完全一致
+2015-06-24 15:00:50,105 - INFO: start http getresponse_url
+2015-06-24 15:00:50,269 - INFO: 机票
+2015-06-24 15:00:50,269 - INFO: all_search_app65
+2015-06-24 15:00:50,269 - INFO: 完全一致
+2015-06-24 15:00:50,292 - INFO: start http getresponse_url
+2015-06-24 15:00:50,451 - INFO: 飞机票
+2015-06-24 15:00:50,451 - INFO: all_search_app65
+2015-06-24 15:00:50,451 - INFO: 完全一致
+2015-06-24 15:00:50,470 - INFO: start http getresponse_url
+2015-06-24 15:00:50,627 - INFO: 飞机
+2015-06-24 15:00:50,628 - INFO: all_search_app65
+2015-06-24 15:00:50,628 - INFO: 完全一致
+2015-06-24 15:00:50,645 - INFO: start http getresponse_url
+2015-06-24 15:00:50,803 - INFO: 航空
+2015-06-24 15:00:50,803 - INFO: all_search_app65
+2015-06-24 15:00:50,803 - INFO: 完全一致
+2015-06-24 15:00:50,823 - INFO: start http getresponse_url
+2015-06-24 15:00:50,983 - INFO: 东方航空
+2015-06-24 15:00:50,983 - INFO: all_search_app65
+2015-06-24 15:00:50,984 - INFO: 完全一致
+2015-06-24 15:00:51,003 - INFO: start http getresponse_url
+2015-06-24 15:00:51,250 - INFO: 酒店
+2015-06-24 15:00:51,250 - INFO: all_search_app65
+2015-06-24 15:00:51,250 - INFO: 完全一致
+2015-06-24 15:00:51,273 - INFO: start http getresponse_url
+2015-06-24 15:00:51,509 - INFO: 旅馆
+2015-06-24 15:00:51,509 - INFO: all_search_app65
+2015-06-24 15:00:51,509 - INFO: 完全一致
+2015-06-24 15:00:51,532 - INFO: start http getresponse_url
+2015-06-24 15:00:51,766 - INFO: 宾馆
+2015-06-24 15:00:51,766 - INFO: all_search_app65
+2015-06-24 15:00:51,766 - INFO: 完全一致
+2015-06-24 15:00:51,789 - INFO: start http getresponse_url
+2015-06-24 15:00:52,013 - INFO: 住宿
+2015-06-24 15:00:52,013 - INFO: all_search_app65
+2015-06-24 15:00:52,013 - INFO: 完全一致
+2015-06-24 15:00:52,032 - INFO: start http getresponse_url
+2015-06-24 15:00:52,259 - INFO: 旅店
+2015-06-24 15:00:52,259 - INFO: all_search_app65
+2015-06-24 15:00:52,259 - INFO: 完全一致
+2015-06-24 15:00:52,278 - INFO: start http getresponse_url
+2015-06-24 15:00:52,517 - INFO: 旅社
+2015-06-24 15:00:52,517 - INFO: all_search_app65
+2015-06-24 15:00:52,517 - INFO: 完全一致
+2015-06-24 15:00:52,536 - INFO: start http getresponse_url
+2015-06-24 15:00:52,727 - INFO: 门票
+2015-06-24 15:00:52,727 - INFO: all_search_app65
+2015-06-24 15:00:52,727 - INFO: 完全一致
+2015-06-24 15:00:52,746 - INFO: start http getresponse_url
+2015-06-24 15:00:52,911 - INFO: 景点门票
+2015-06-24 15:00:52,911 - INFO: all_search_app65
+2015-06-24 15:00:52,911 - INFO: 完全一致
+2015-06-24 15:00:52,928 - INFO: start http getresponse_url
+2015-06-24 15:00:53,223 - INFO: 景点
+2015-06-24 15:00:53,223 - INFO: all_search_app65
+2015-06-24 15:00:53,223 - INFO: 完全一致
+2015-06-24 15:00:53,247 - INFO: start http getresponse_url
+2015-06-24 15:00:53,372 - INFO: 攻略
+2015-06-24 15:00:53,374 - INFO: all_search_app65
+2015-06-24 15:00:53,374 - INFO: 完全一致
+2015-06-24 15:00:53,391 - INFO: start http getresponse_url
+2015-06-24 15:00:53,653 - INFO: 旅游
+2015-06-24 15:00:53,653 - INFO: all_search_app65
+2015-06-24 15:00:53,654 - INFO: 完全一致
+2015-06-24 15:00:53,677 - INFO: start http getresponse_url
+2015-06-24 15:00:53,849 - INFO: 跟团游
+2015-06-24 15:00:53,849 - INFO: all_search_app65
+2015-06-24 15:00:53,849 - INFO: 完全一致
+2015-06-24 15:00:53,871 - INFO: start http getresponse_url
+2015-06-24 15:00:54,045 - INFO: 旅行社
+2015-06-24 15:00:54,046 - INFO: all_search_app65
+2015-06-24 15:00:54,046 - INFO: 完全一致
+2015-06-24 15:00:54,069 - INFO: start http getresponse_url
+2015-06-24 15:00:54,244 - INFO: 旅游团
+2015-06-24 15:00:54,244 - INFO: all_search_app65
+2015-06-24 15:00:54,244 - INFO: 完全一致
+2015-06-24 15:00:54,266 - INFO: start http getresponse_url
+2015-06-24 15:00:54,417 - INFO: 自由行
+2015-06-24 15:00:54,418 - INFO: all_search_app65
+2015-06-24 15:00:54,418 - INFO: 完全一致
+2015-06-24 15:00:54,437 - INFO: start http getresponse_url
+2015-06-24 15:00:54,621 - INFO: 团购
+2015-06-24 15:00:54,621 - INFO: all_search_app65
+2015-06-24 15:00:54,621 - INFO: 完全一致
+2015-06-24 15:00:54,641 - INFO: start http getresponse_url
+2015-06-24 15:00:54,813 - INFO: 火车票
+2015-06-24 15:00:54,813 - INFO: all_search_app65
+2015-06-24 15:00:54,815 - INFO: 完全一致
+2015-06-24 15:00:54,838 - INFO: start http getresponse_url
+2015-06-24 15:00:54,994 - INFO: 火车
+2015-06-24 15:00:54,994 - INFO: all_search_app65
+2015-06-24 15:00:54,994 - INFO: 完全一致
+2015-06-24 15:00:55,017 - INFO: start http getresponse_url
+2015-06-24 15:00:55,176 - INFO: 列车
+2015-06-24 15:00:55,176 - INFO: all_search_app65
+2015-06-24 15:00:55,177 - INFO: 完全一致
+2015-06-24 15:00:55,200 - INFO: start http getresponse_url
+2015-06-24 15:00:55,342 - INFO: 高铁
+2015-06-24 15:00:55,342 - INFO: all_search_app65
+2015-06-24 15:00:55,342 - INFO: 完全一致
+2015-06-24 15:00:55,361 - INFO: start http getresponse_url
+2015-06-24 15:00:55,526 - INFO: 动车
+2015-06-24 15:00:55,526 - INFO: all_search_app65
+2015-06-24 15:00:55,526 - INFO: 完全一致
+2015-06-24 15:00:55,543 - INFO: start http getresponse_url
+2015-06-24 15:00:55,700 - INFO: 汽车
+2015-06-24 15:00:55,701 - INFO: all_search_app65
+2015-06-24 15:00:55,701 - INFO: 完全一致
+2015-06-24 15:00:55,720 - INFO: start http getresponse_url
+2015-06-24 15:00:55,875 - INFO: 汽车票
+2015-06-24 15:00:55,875 - INFO: all_search_app65
+2015-06-24 15:00:55,875 - INFO: 完全一致
+2015-06-24 15:00:55,892 - INFO: start http getresponse_url
+2015-06-24 15:00:56,117 - INFO: 当地
+2015-06-24 15:00:56,118 - INFO: all_search_app65
+2015-06-24 15:00:56,118 - INFO: 完全一致
+2015-06-24 15:00:56,151 - INFO: start http getresponse_url
+2015-06-24 15:00:56,309 - INFO: 导游
+2015-06-24 15:00:56,309 - INFO: all_search_app65
+2015-06-24 15:00:56,309 - INFO: 完全一致
+2015-06-24 15:00:56,326 - INFO: start http getresponse_url
+2015-06-24 15:00:56,493 - INFO: 地接
+2015-06-24 15:00:56,493 - INFO: all_search_app65
+2015-06-24 15:00:56,493 - INFO: 完全一致
+2015-06-24 15:00:56,510 - INFO: start http getresponse_url
+2015-06-24 15:00:56,941 - INFO: 保险
+2015-06-24 15:00:56,941 - INFO: all_search_app65
+2015-06-24 15:00:56,943 - INFO: 完全一致
+2015-06-24 15:00:56,960 - INFO: start http getresponse_url
+2015-06-24 15:00:57,167 - INFO: 
+FJ411
+2015-06-24 15:00:57,167 - INFO: all_search_app65
+2015-06-24 15:00:57,167 - INFO: 完全一致
+2015-06-24 15:00:57,190 - INFO: start http getresponse_url
+2015-06-24 15:00:57,615 - INFO: S6010
+2015-06-24 15:00:57,615 - INFO: all_search_app65
+2015-06-24 15:00:57,615 - INFO: 完全一致
+2015-06-24 15:00:57,640 - INFO: start http getresponse_url
+2015-06-24 15:00:57,828 - INFO: VS4241
+2015-06-24 15:00:57,828 - INFO: all_search_app65
+2015-06-24 15:00:57,828 - INFO: 完全一致
+2015-06-24 15:00:57,851 - INFO: start http getresponse_url
+2015-06-24 15:00:58,257 - INFO: S48765
+2015-06-24 15:00:58,257 - INFO: all_search_app65
+2015-06-24 15:00:58,257 - INFO: 完全一致
+2015-06-24 15:00:58,282 - INFO: start http getresponse_url
+2015-06-24 15:00:58,434 - INFO: 3U8952
+2015-06-24 15:00:58,434 - INFO: all_search_app65
+2015-06-24 15:00:58,436 - INFO: 完全一致
+2015-06-24 15:00:58,457 - INFO: start http getresponse_url
+2015-06-24 15:00:58,874 - INFO: s48020
+2015-06-24 15:00:58,874 - INFO: all_search_app65
+2015-06-24 15:00:58,874 - INFO: 完全一致
+2015-06-24 15:00:58,891 - INFO: start http getresponse_url
+2015-06-24 15:00:59,243 - INFO: S
+2015-06-24 15:00:59,243 - INFO: all_search_app65
+2015-06-24 15:00:59,244 - INFO: 完全一致
+2015-06-24 15:00:59,262 - INFO: start http getresponse_url
+2015-06-24 15:00:59,484 - INFO: S6
+2015-06-24 15:00:59,486 - INFO: all_search_app65
+2015-06-24 15:00:59,486 - INFO: 完全一致
+2015-06-24 15:00:59,503 - INFO: start http getresponse_url
+2015-06-24 15:00:59,746 - INFO: S60
+2015-06-24 15:00:59,746 - INFO: all_search_app65
+2015-06-24 15:00:59,746 - INFO: 完全一致
+2015-06-24 15:00:59,763 - INFO: start http getresponse_url
+2015-06-24 15:01:00,167 - INFO: S601
+2015-06-24 15:01:00,168 - INFO: all_search_app65
+2015-06-24 15:01:00,168 - INFO: 完全一致
+2015-06-24 15:01:00,190 - INFO: start http getresponse_url
+2015-06-24 15:01:00,447 - INFO: VS4
+2015-06-24 15:01:00,447 - INFO: all_search_app65
+2015-06-24 15:01:00,447 - INFO: 完全一致
+2015-06-24 15:01:00,470 - INFO: start http getresponse_url
+2015-06-24 15:01:00,638 - INFO: VS42
+2015-06-24 15:01:00,638 - INFO: all_search_app65
+2015-06-24 15:01:00,638 - INFO: 完全一致
+2015-06-24 15:01:00,663 - INFO: start http getresponse_url
+2015-06-24 15:01:00,806 - INFO: mu532
+2015-06-24 15:01:00,806 - INFO: all_search_app65
+2015-06-24 15:01:00,806 - INFO: 完全一致
+2015-06-24 15:01:00,828 - INFO: start http getresponse_url
+2015-06-24 15:01:01,092 - INFO: mu5537
+2015-06-24 15:01:01,092 - INFO: all_search_app65
+2015-06-24 15:01:01,092 - INFO: 完全一致
+2015-06-24 15:01:01,115 - INFO: start http getresponse_url
+2015-06-24 15:01:01,256 - INFO: QG8818
+2015-06-24 15:01:01,256 - INFO: all_search_app65
+2015-06-24 15:01:01,256 - INFO: 完全一致
+2015-06-24 15:01:01,279 - INFO: start http getresponse_url
+2015-06-24 15:01:01,418 - INFO: 上海浦东国际机场
+2015-06-24 15:01:01,418 - INFO: all_search_app65
+2015-06-24 15:01:01,418 - INFO: 完全一致
+2015-06-24 15:01:01,443 - INFO: start http getresponse_url
+2015-06-24 15:01:01,677 - INFO: 上海虹桥机场
+2015-06-24 15:01:01,677 - INFO: all_search_app65
+2015-06-24 15:01:01,677 - INFO: 完全一致
+2015-06-24 15:01:01,700 - INFO: start http getresponse_url
+2015-06-24 15:01:01,943 - INFO: 首都机场
+2015-06-24 15:01:01,943 - INFO: all_search_app65
+2015-06-24 15:01:01,944 - INFO: 完全一致
+2015-06-24 15:01:01,966 - INFO: start http getresponse_url
+2015-06-24 15:01:02,207 - INFO: 深圳宝安机场
+2015-06-24 15:01:02,207 - INFO: all_search_app65
+2015-06-24 15:01:02,207 - INFO: 完全一致
+2015-06-24 15:01:02,232 - INFO: start http getresponse_url
+2015-06-24 15:01:02,453 - INFO: 成都双流国际机场
+2015-06-24 15:01:02,453 - INFO: all_search_app65
+2015-06-24 15:01:02,453 - INFO: 完全一致
+2015-06-24 15:01:02,476 - INFO: start http getresponse_url
+2015-06-24 15:01:03,805 - INFO: 四川省成都双流机场
+2015-06-24 15:01:03,805 - INFO: all_search_app65
+2015-06-24 15:01:03,805 - INFO: 完全一致
+2015-06-24 15:01:03,825 - INFO: start http getresponse_url
+2015-06-24 15:01:04,019 - INFO: 双流机场
+2015-06-24 15:01:04,019 - INFO: all_search_app65
+2015-06-24 15:01:04,019 - INFO: 完全一致
+2015-06-24 15:01:04,038 - INFO: start http getresponse_url
+2015-06-24 15:01:04,644 - INFO: 四川双流机场
+2015-06-24 15:01:04,644 - INFO: all_search_app65
+2015-06-24 15:01:04,644 - INFO: 完全一致
+2015-06-24 15:01:04,667 - INFO: start http getresponse_url
+2015-06-24 15:01:05,282 - INFO: 本迪戈国际机场
+2015-06-24 15:01:05,282 - INFO: all_search_app65
+2015-06-24 15:01:05,282 - INFO: 完全一致
+2015-06-24 15:01:05,299 - INFO: start http getresponse_url
+2015-06-24 15:01:05,427 - INFO: NRT
+2015-06-24 15:01:05,427 - INFO: all_search_app65
+2015-06-24 15:01:05,427 - INFO: 完全一致
+2015-06-24 15:01:05,444 - INFO: start http getresponse_url
+2015-06-24 15:01:05,598 - INFO: 成田国际机场
+2015-06-24 15:01:05,598 - INFO: all_search_app65
+2015-06-24 15:01:05,598 - INFO: 完全一致
+2015-06-24 15:01:05,617 - INFO: start http getresponse_url
+2015-06-24 15:01:05,769 - INFO: HND
+2015-06-24 15:01:05,769 - INFO: all_search_app65
+2015-06-24 15:01:05,769 - INFO: 完全一致
+2015-06-24 15:01:05,786 - INFO: start http getresponse_url
+2015-06-24 15:01:05,987 - INFO: 羽田机场
+2015-06-24 15:01:05,987 - INFO: all_search_app65
+2015-06-24 15:01:05,987 - INFO: 完全一致
+2015-06-24 15:01:06,006 - INFO: start http getresponse_url
+2015-06-24 15:01:06,154 - INFO: ITM 
+2015-06-24 15:01:06,154 - INFO: all_search_app65
+2015-06-24 15:01:06,154 - INFO: 完全一致
+2015-06-24 15:01:06,174 - INFO: start http getresponse_url
+2015-06-24 15:01:06,914 - INFO: 大阪伊丹国际机场
+2015-06-24 15:01:06,914 - INFO: all_search_app65
+2015-06-24 15:01:06,914 - INFO: 完全一致
+2015-06-24 15:01:06,938 - INFO: start http getresponse_url
+2015-06-24 15:01:07,069 - INFO: KIX
+2015-06-24 15:01:07,069 - INFO: all_search_app65
+2015-06-24 15:01:07,069 - INFO: 完全一致
+2015-06-24 15:01:07,092 - INFO: start http getresponse_url
+2015-06-24 15:01:07,792 - INFO: 大阪关西国际机场
+2015-06-24 15:01:07,792 - INFO: all_search_app65
+2015-06-24 15:01:07,792 - INFO: 完全一致
+2015-06-24 15:01:07,811 - INFO: start http getresponse_url
+2015-06-24 15:01:07,943 - INFO: ICN
+2015-06-24 15:01:07,943 - INFO: all_search_app65
+2015-06-24 15:01:07,944 - INFO: 完全一致
+2015-06-24 15:01:07,966 - INFO: start http getresponse_url
+2015-06-24 15:01:08,107 - INFO: 仁川国际机场
+2015-06-24 15:01:08,107 - INFO: all_search_app65
+2015-06-24 15:01:08,107 - INFO: 完全一致
+2015-06-24 15:01:08,128 - INFO: start http getresponse_url
+2015-06-24 15:01:08,282 - INFO: PUS
+2015-06-24 15:01:08,283 - INFO: all_search_app65
+2015-06-24 15:01:08,283 - INFO: 完全一致
+2015-06-24 15:01:08,303 - INFO: start http getresponse_url
+2015-06-24 15:01:08,480 - INFO: 釜山金海国际机场
+2015-06-24 15:01:08,480 - INFO: all_search_app65
+2015-06-24 15:01:08,480 - INFO: 完全一致
+2015-06-24 15:01:08,503 - INFO: start http getresponse_url
+2015-06-24 15:01:08,641 - INFO: SIN
+2015-06-24 15:01:08,641 - INFO: all_search_app65
+2015-06-24 15:01:08,641 - INFO: 完全一致
+2015-06-24 15:01:08,663 - INFO: start http getresponse_url
+2015-06-24 15:01:08,881 - INFO: 新加坡樟宜国际机场
+2015-06-24 15:01:08,881 - INFO: all_search_app65
+2015-06-24 15:01:08,882 - INFO: 完全一致
+2015-06-24 15:01:08,904 - INFO: start http getresponse_url
+2015-06-24 15:01:09,032 - INFO: KUL
+2015-06-24 15:01:09,032 - INFO: all_search_app65
+2015-06-24 15:01:09,032 - INFO: 完全一致
+2015-06-24 15:01:09,053 - INFO: start http getresponse_url
+2015-06-24 15:01:09,190 - INFO: 吉隆坡国际机场
+2015-06-24 15:01:09,190 - INFO: all_search_app65
+2015-06-24 15:01:09,190 - INFO: 完全一致
+2015-06-24 15:01:09,214 - INFO: start http getresponse_url
+2015-06-24 15:01:09,788 - INFO: SGN胡志明市新山机场
+2015-06-24 15:01:09,788 - INFO: all_search_app65
+2015-06-24 15:01:09,788 - INFO: 完全一致
+2015-06-24 15:01:09,811 - INFO: start http getresponse_url
+2015-06-24 15:01:10,362 - INFO: BKK廊曼国际机场
+2015-06-24 15:01:10,364 - INFO: all_search_app65
+2015-06-24 15:01:10,364 - INFO: 完全一致
+2015-06-24 15:01:10,385 - INFO: start http getresponse_url
+2015-06-24 15:01:10,532 - INFO: DEL
+2015-06-24 15:01:10,532 - INFO: all_search_app65
+2015-06-24 15:01:10,532 - INFO: 完全一致
+2015-06-24 15:01:10,555 - INFO: start http getresponse_url
+2015-06-24 15:01:10,746 - INFO: 新德里国际
+2015-06-24 15:01:10,746 - INFO: all_search_app65
+2015-06-24 15:01:10,746 - INFO: 完全一致
+2015-06-24 15:01:10,763 - INFO: start http getresponse_url
+2015-06-24 15:01:10,994 - INFO: 东方明珠
+2015-06-24 15:01:10,994 - INFO: all_search_app65
+2015-06-24 15:01:10,994 - INFO: 完全一致
+2015-06-24 15:01:11,013 - INFO: start http getresponse_url
+2015-06-24 15:01:11,230 - INFO: dongfangmingzhu
+2015-06-24 15:01:11,230 - INFO: all_search_app65
+2015-06-24 15:01:11,230 - INFO: 完全一致
+2015-06-24 15:01:11,247 - INFO: start http getresponse_url
+2015-06-24 15:01:11,418 - INFO: 九寨沟风景区
+2015-06-24 15:01:11,418 - INFO: all_search_app65
+2015-06-24 15:01:11,418 - INFO: 完全一致
+2015-06-24 15:01:11,437 - INFO: start http getresponse_url
+2015-06-24 15:01:11,628 - INFO: jiuzhaigoufengjingqu
+2015-06-24 15:01:11,628 - INFO: all_search_app65
+2015-06-24 15:01:11,628 - INFO: 完全一致
+2015-06-24 15:01:11,647 - INFO: start http getresponse_url
+2015-06-24 15:01:11,823 - INFO: 埃菲尔铁塔
+2015-06-24 15:01:11,825 - INFO: all_search_app65
+2015-06-24 15:01:11,825 - INFO: 完全一致
+2015-06-24 15:01:11,842 - INFO: start http getresponse_url
+2015-06-24 15:01:12,036 - INFO: Eiffel Tower
+2015-06-24 15:01:12,036 - INFO: all_search_app65
+2015-06-24 15:01:12,036 - INFO: 完全一致
+2015-06-24 15:01:12,053 - INFO: start http getresponse_url
+2015-06-24 15:01:12,223 - INFO: aifeiertieta
+2015-06-24 15:01:12,223 - INFO: all_search_app65
+2015-06-24 15:01:12,223 - INFO: 完全一致
+2015-06-24 15:01:12,243 - INFO: start http getresponse_url
+2015-06-24 15:01:12,381 - INFO: 
+世纪公园
+2015-06-24 15:01:12,381 - INFO: all_search_app65
+2015-06-24 15:01:12,381 - INFO: 完全一致
+2015-06-24 15:01:12,404 - INFO: start http getresponse_url
+2015-06-24 15:01:12,628 - INFO: shijigongyuan
+2015-06-24 15:01:12,628 - INFO: all_search_app65
+2015-06-24 15:01:12,628 - INFO: 完全一致
+2015-06-24 15:01:12,650 - INFO: start http getresponse_url
+2015-06-24 15:01:12,779 - INFO: 
+圆明园
+2015-06-24 15:01:12,779 - INFO: all_search_app65
+2015-06-24 15:01:12,779 - INFO: 完全一致
+2015-06-24 15:01:12,799 - INFO: start http getresponse_url
+2015-06-24 15:01:13,023 - INFO: yuanmingyuan
+2015-06-24 15:01:13,023 - INFO: all_search_app65
+2015-06-24 15:01:13,023 - INFO: 完全一致
+2015-06-24 15:01:13,046 - INFO: start http getresponse_url
+2015-06-24 15:01:13,740 - INFO: 大名湖景区门票
+2015-06-24 15:01:13,740 - INFO: all_search_app65
+2015-06-24 15:01:13,740 - INFO: 完全一致
+2015-06-24 15:01:13,760 - INFO: start http getresponse_url
+2015-06-24 15:01:13,957 - INFO: 九寨沟风景区门票
+2015-06-24 15:01:13,957 - INFO: all_search_app65
+2015-06-24 15:01:13,957 - INFO: 完全一致
+2015-06-24 15:01:13,983 - INFO: start http getresponse_url
+2015-06-24 15:01:14,170 - INFO: 大明湖门票
+2015-06-24 15:01:14,170 - INFO: all_search_app65
+2015-06-24 15:01:14,170 - INFO: 完全一致
+2015-06-24 15:01:14,193 - INFO: start http getresponse_url
+2015-06-24 15:01:14,391 - INFO: 西湖门票
+2015-06-24 15:01:14,391 - INFO: all_search_app65
+2015-06-24 15:01:14,391 - INFO: 完全一致
+2015-06-24 15:01:14,414 - INFO: start http getresponse_url
+2015-06-24 15:01:14,990 - INFO: 甘肃博物馆门票
+2015-06-24 15:01:14,990 - INFO: all_search_app65
+2015-06-24 15:01:14,990 - INFO: 完全一致
+2015-06-24 15:01:15,009 - INFO: start http getresponse_url
+2015-06-24 15:01:15,197 - INFO: 凯旋门门票
+2015-06-24 15:01:15,197 - INFO: all_search_app65
+2015-06-24 15:01:15,197 - INFO: 完全一致
+2015-06-24 15:01:15,214 - INFO: start http getresponse_url
+2015-06-24 15:01:15,345 - INFO: 巴黎圣母院门票
+
+2015-06-24 15:01:15,345 - INFO: all_search_app65
+2015-06-24 15:01:15,345 - INFO: 完全一致
+2015-06-24 15:01:15,362 - INFO: start http getresponse_url
+2015-06-24 15:01:15,930 - INFO: 爱上海门票
+2015-06-24 15:01:15,930 - INFO: all_search_app65
+2015-06-24 15:01:15,930 - INFO: 完全一致
+2015-06-24 15:01:15,950 - INFO: start http getresponse_url
+2015-06-24 15:01:16,158 - INFO: 故宫门票
+2015-06-24 15:01:16,160 - INFO: all_search_app65
+2015-06-24 15:01:16,160 - INFO: 完全一致
+2015-06-24 15:01:16,183 - INFO: start http getresponse_url
+2015-06-24 15:01:16,345 - INFO: 博物馆
+2015-06-24 15:01:16,345 - INFO: all_search_app65
+2015-06-24 15:01:16,345 - INFO: 完全一致
+2015-06-24 15:01:16,367 - INFO: start http getresponse_url
+2015-06-24 15:01:16,546 - INFO: 游乐场
+2015-06-24 15:01:16,546 - INFO: all_search_app65
+2015-06-24 15:01:16,546 - INFO: 完全一致
+2015-06-24 15:01:16,569 - INFO: start http getresponse_url
+2015-06-24 15:01:16,720 - INFO: 希尔顿
+2015-06-24 15:01:16,720 - INFO: all_search_app65
+2015-06-24 15:01:16,720 - INFO: 完全一致
+2015-06-24 15:01:16,743 - INFO: start http getresponse_url
+2015-06-24 15:01:16,901 - INFO: 四季
+2015-06-24 15:01:16,901 - INFO: all_search_app65
+2015-06-24 15:01:16,901 - INFO: 完全一致
+2015-06-24 15:01:16,918 - INFO: start http getresponse_url
+2015-06-24 15:01:17,065 - INFO: 喜来登
+2015-06-24 15:01:17,065 - INFO: all_search_app65
+2015-06-24 15:01:17,065 - INFO: 完全一致
+2015-06-24 15:01:17,082 - INFO: start http getresponse_url
+2015-06-24 15:01:17,230 - INFO: 洲际
+2015-06-24 15:01:17,230 - INFO: all_search_app65
+2015-06-24 15:01:17,230 - INFO: 完全一致
+2015-06-24 15:01:17,247 - INFO: start http getresponse_url
+2015-06-24 15:01:17,417 - INFO: 如家
+2015-06-24 15:01:17,417 - INFO: all_search_app65
+2015-06-24 15:01:17,417 - INFO: 完全一致
+2015-06-24 15:01:17,436 - INFO: start http getresponse_url
+2015-06-24 15:01:17,599 - INFO: 如家快捷酒店
+2015-06-24 15:01:17,599 - INFO: all_search_app65
+2015-06-24 15:01:17,599 - INFO: 完全一致
+2015-06-24 15:01:17,618 - INFO: start http getresponse_url
+2015-06-24 15:01:17,780 - INFO: 上海希尔顿
+2015-06-24 15:01:17,780 - INFO: all_search_app65
+2015-06-24 15:01:17,780 - INFO: 完全一致
+2015-06-24 15:01:17,799 - INFO: start http getresponse_url
+2015-06-24 15:01:17,976 - INFO: 沈阳布丁
+2015-06-24 15:01:17,976 - INFO: all_search_app65
+2015-06-24 15:01:17,976 - INFO: 完全一致
+2015-06-24 15:01:18,000 - INFO: start http getresponse_url
+2015-06-24 15:01:18,586 - INFO: 香港希尔顿
+2015-06-24 15:01:18,586 - INFO: all_search_app65
+2015-06-24 15:01:18,586 - INFO: 完全一致
+2015-06-24 15:01:18,609 - INFO: start http getresponse_url
+2015-06-24 15:01:18,813 - INFO: 香港港丽酒店
+2015-06-24 15:01:18,813 - INFO: all_search_app65
+2015-06-24 15:01:18,815 - INFO: 完全一致
+2015-06-24 15:01:18,838 - INFO: start http getresponse_url
+2015-06-24 15:01:18,971 - INFO: 澳门威尼斯人
+
+2015-06-24 15:01:18,973 - INFO: all_search_app65
+2015-06-24 15:01:18,973 - INFO: 完全一致
+2015-06-24 15:01:18,996 - INFO: start http getresponse_url
+2015-06-24 15:01:19,147 - INFO: 台北喜来登
+2015-06-24 15:01:19,147 - INFO: all_search_app65
+2015-06-24 15:01:19,147 - INFO: 完全一致
+2015-06-24 15:01:19,167 - INFO: start http getresponse_url
+2015-06-24 15:01:19,316 - INFO: 巴黎洲际
+2015-06-24 15:01:19,316 - INFO: all_search_app65
+2015-06-24 15:01:19,316 - INFO: 完全一致
+2015-06-24 15:01:19,339 - INFO: start http getresponse_url
+2015-06-24 15:01:19,522 - INFO: 文华东方
+2015-06-24 15:01:19,522 - INFO: all_search_app65
+2015-06-24 15:01:19,522 - INFO: 完全一致
+2015-06-24 15:01:19,545 - INFO: start http getresponse_url
+2015-06-24 15:01:19,763 - INFO: 上海
+2015-06-24 15:01:19,763 - INFO: all_search_app65
+2015-06-24 15:01:19,763 - INFO: 完全一致
+2015-06-24 15:01:19,782 - INFO: start http getresponse_url
+2015-06-24 15:01:19,953 - INFO: 三亚
+2015-06-24 15:01:19,953 - INFO: all_search_app65
+2015-06-24 15:01:19,954 - INFO: 完全一致
+2015-06-24 15:01:19,976 - INFO: start http getresponse_url
+2015-06-24 15:01:20,187 - INFO: 北京
+2015-06-24 15:01:20,187 - INFO: all_search_app65
+2015-06-24 15:01:20,187 - INFO: 完全一致
+2015-06-24 15:01:20,210 - INFO: start http getresponse_url
+2015-06-24 15:01:20,403 - INFO: 广州
+2015-06-24 15:01:20,403 - INFO: all_search_app65
+2015-06-24 15:01:20,403 - INFO: 完全一致
+2015-06-24 15:01:20,421 - INFO: start http getresponse_url
+2015-06-24 15:01:21,408 - INFO: 成都海南三亚
+2015-06-24 15:01:21,410 - INFO: all_search_app65
+2015-06-24 15:01:21,410 - INFO: 完全一致
+2015-06-24 15:01:21,433 - INFO: start http getresponse_url
+2015-06-24 15:01:21,605 - INFO: 海南省三亚
+2015-06-24 15:01:21,605 - INFO: all_search_app65
+2015-06-24 15:01:21,607 - INFO: 完全一致
+2015-06-24 15:01:21,631 - INFO: start http getresponse_url
+2015-06-24 15:01:21,809 - INFO: 海南省三亚市
+2015-06-24 15:01:21,809 - INFO: all_search_app65
+2015-06-24 15:01:21,809 - INFO: 完全一致
+2015-06-24 15:01:21,832 - INFO: start http getresponse_url
+2015-06-24 15:01:22,006 - INFO: 海南
+2015-06-24 15:01:22,006 - INFO: all_search_app65
+2015-06-24 15:01:22,006 - INFO: 完全一致
+2015-06-24 15:01:22,029 - INFO: start http getresponse_url
+2015-06-24 15:01:22,259 - INFO: SHANGHAI
+2015-06-24 15:01:22,259 - INFO: all_search_app65
+2015-06-24 15:01:22,259 - INFO: 完全一致
+2015-06-24 15:01:22,282 - INFO: start http getresponse_url
+2015-06-24 15:01:22,517 - INFO: shanghai
+2015-06-24 15:01:22,517 - INFO: all_search_app65
+2015-06-24 15:01:22,517 - INFO: 完全一致
+2015-06-24 15:01:22,542 - INFO: start http getresponse_url
+2015-06-24 15:01:22,762 - INFO: 上海市
+2015-06-24 15:01:22,762 - INFO: all_search_app65
+2015-06-24 15:01:22,762 - INFO: 完全一致
+2015-06-24 15:01:22,785 - INFO: start http getresponse_url
+2015-06-24 15:01:22,928 - INFO: 邢台县
+2015-06-24 15:01:22,928 - INFO: all_search_app65
+2015-06-24 15:01:22,928 - INFO: 完全一致
+2015-06-24 15:01:22,953 - INFO: start http getresponse_url
+2015-06-24 15:01:23,134 - INFO: 香港
+2015-06-24 15:01:23,134 - INFO: all_search_app65
+2015-06-24 15:01:23,134 - INFO: 完全一致
+2015-06-24 15:01:23,151 - INFO: start http getresponse_url
+2015-06-24 15:01:23,315 - INFO: hongkong
+2015-06-24 15:01:23,315 - INFO: all_search_app65
+2015-06-24 15:01:23,315 - INFO: 完全一致
+2015-06-24 15:01:23,334 - INFO: start http getresponse_url
+2015-06-24 15:01:23,480 - INFO: 澳门
+2015-06-24 15:01:23,480 - INFO: all_search_app65
+2015-06-24 15:01:23,480 - INFO: 完全一致
+2015-06-24 15:01:23,499 - INFO: start http getresponse_url
+2015-06-24 15:01:23,663 - INFO: Macau
+2015-06-24 15:01:23,664 - INFO: all_search_app65
+2015-06-24 15:01:23,664 - INFO: 完全一致
+2015-06-24 15:01:23,686 - INFO: start http getresponse_url
+2015-06-24 15:01:23,829 - INFO: 台湾
+2015-06-24 15:01:23,829 - INFO: all_search_app65
+2015-06-24 15:01:23,829 - INFO: 完全一致
+2015-06-24 15:01:23,848 - INFO: start http getresponse_url
+2015-06-24 15:01:24,009 - INFO: Taiwan
+2015-06-24 15:01:24,009 - INFO: all_search_app65
+2015-06-24 15:01:24,009 - INFO: 完全一致
+2015-06-24 15:01:24,028 - INFO: start http getresponse_url
+2015-06-24 15:01:24,186 - INFO: 
+纽约
+2015-06-24 15:01:24,186 - INFO: all_search_app65
+2015-06-24 15:01:24,186 - INFO: 完全一致
+2015-06-24 15:01:24,203 - INFO: start http getresponse_url
+2015-06-24 15:01:24,354 - INFO: 东京
+2015-06-24 15:01:24,355 - INFO: all_search_app65
+2015-06-24 15:01:24,355 - INFO: 完全一致
+2015-06-24 15:01:24,372 - INFO: start http getresponse_url
+2015-06-24 15:01:24,529 - INFO: 大阪
+2015-06-24 15:01:24,529 - INFO: all_search_app65
+2015-06-24 15:01:24,529 - INFO: 完全一致
+2015-06-24 15:01:24,549 - INFO: start http getresponse_url
+2015-06-24 15:01:24,703 - INFO: 巴黎
+2015-06-24 15:01:24,703 - INFO: all_search_app65
+2015-06-24 15:01:24,703 - INFO: 完全一致
+2015-06-24 15:01:24,720 - INFO: start http getresponse_url
+2015-06-24 15:01:24,880 - INFO: 法国巴黎
+2015-06-24 15:01:24,880 - INFO: all_search_app65
+2015-06-24 15:01:24,881 - INFO: 完全一致
+2015-06-24 15:01:24,905 - INFO: start http getresponse_url
+2015-06-24 15:01:25,063 - INFO: 日本东京
+2015-06-24 15:01:25,063 - INFO: all_search_app65
+2015-06-24 15:01:25,065 - INFO: 完全一致
+2015-06-24 15:01:25,082 - INFO: start http getresponse_url
+2015-06-24 15:01:25,246 - INFO: Paris
+2015-06-24 15:01:25,246 - INFO: all_search_app65
+2015-06-24 15:01:25,246 - INFO: 完全一致
+2015-06-24 15:01:25,265 - INFO: start http getresponse_url
+2015-06-24 15:01:25,444 - INFO: niuyue
+2015-06-24 15:01:25,444 - INFO: all_search_app65
+2015-06-24 15:01:25,444 - INFO: 完全一致
+2015-06-24 15:01:25,463 - INFO: start http getresponse_url
+2015-06-24 15:01:25,611 - INFO: 法国
+2015-06-24 15:01:25,611 - INFO: all_search_app65
+2015-06-24 15:01:25,611 - INFO: 完全一致
+2015-06-24 15:01:25,634 - INFO: start http getresponse_url
+2015-06-24 15:01:25,789 - INFO: 中国
+2015-06-24 15:01:25,789 - INFO: all_search_app65
+2015-06-24 15:01:25,789 - INFO: 完全一致
+2015-06-24 15:01:25,811 - INFO: start http getresponse_url
+2015-06-24 15:01:25,960 - INFO: 辽宁
+2015-06-24 15:01:25,960 - INFO: all_search_app65
+2015-06-24 15:01:25,960 - INFO: 完全一致
+2015-06-24 15:01:25,977 - INFO: start http getresponse_url
+2015-06-24 15:01:29,138 - INFO: liaoning
+2015-06-24 15:01:29,138 - INFO: all_search_app65
+2015-06-24 15:01:29,138 - INFO: 完全一致
+2015-06-24 15:01:29,155 - INFO: start http getresponse_url
+2015-06-24 15:01:29,308 - INFO: France
+2015-06-24 15:01:29,308 - INFO: all_search_app65
+2015-06-24 15:01:29,308 - INFO: 完全一致
+2015-06-24 15:01:29,325 - INFO: start http getresponse_url
+2015-06-24 15:01:29,473 - INFO: france
+2015-06-24 15:01:29,474 - INFO: all_search_app65
+2015-06-24 15:01:29,474 - INFO: 完全一致
+2015-06-24 15:01:29,493 - INFO: start http getresponse_url
+2015-06-24 15:01:29,647 - INFO: faguo
+2015-06-24 15:01:29,647 - INFO: all_search_app65
+2015-06-24 15:01:29,648 - INFO: 完全一致
+2015-06-24 15:01:29,665 - INFO: start http getresponse_url
+2015-06-24 15:01:29,816 - INFO: 上海机票
+2015-06-24 15:01:29,818 - INFO: all_search_app65
+2015-06-24 15:01:29,818 - INFO: 完全一致
+2015-06-24 15:01:29,841 - INFO: start http getresponse_url
+2015-06-24 15:01:29,984 - INFO: 上海飞机票
+2015-06-24 15:01:29,984 - INFO: all_search_app65
+2015-06-24 15:01:29,984 - INFO: 完全一致
+2015-06-24 15:01:30,009 - INFO: start http getresponse_url
+2015-06-24 15:01:30,188 - INFO: 上海飞机
+2015-06-24 15:01:30,188 - INFO: all_search_app65
+2015-06-24 15:01:30,188 - INFO: 完全一致
+2015-06-24 15:01:30,211 - INFO: start http getresponse_url
+2015-06-24 15:01:30,355 - INFO: 上海航空
+2015-06-24 15:01:30,355 - INFO: all_search_app65
+2015-06-24 15:01:30,355 - INFO: 完全一致
+2015-06-24 15:01:30,378 - INFO: start http getresponse_url
+2015-06-24 15:01:30,533 - INFO: 上海东方航空
+2015-06-24 15:01:30,533 - INFO: all_search_app65
+2015-06-24 15:01:30,533 - INFO: 完全一致
+2015-06-24 15:01:30,556 - INFO: start http getresponse_url
+2015-06-24 15:01:30,717 - INFO: 北京机票
+2015-06-24 15:01:30,719 - INFO: all_search_app65
+2015-06-24 15:01:30,719 - INFO: 完全一致
+2015-06-24 15:01:30,743 - INFO: start http getresponse_url
+2015-06-24 15:01:30,895 - INFO: 北京飞机票
+2015-06-24 15:01:30,895 - INFO: all_search_app65
+2015-06-24 15:01:30,895 - INFO: 完全一致
+2015-06-24 15:01:30,914 - INFO: start http getresponse_url
+2015-06-24 15:01:31,063 - INFO: 北京飞机
+2015-06-24 15:01:31,063 - INFO: all_search_app65
+2015-06-24 15:01:31,063 - INFO: 完全一致
+2015-06-24 15:01:31,082 - INFO: start http getresponse_url
+2015-06-24 15:01:31,230 - INFO: 北京航空
+2015-06-24 15:01:31,232 - INFO: all_search_app65
+2015-06-24 15:01:31,232 - INFO: 完全一致
+2015-06-24 15:01:31,253 - INFO: start http getresponse_url
+2015-06-24 15:01:31,414 - INFO: 北京东方航空
+2015-06-24 15:01:31,414 - INFO: all_search_app65
+2015-06-24 15:01:31,414 - INFO: 完全一致
+2015-06-24 15:01:31,433 - INFO: start http getresponse_url
+2015-06-24 15:01:31,596 - INFO: 波士顿
+2015-06-24 15:01:31,596 - INFO: all_search_app65
+2015-06-24 15:01:31,596 - INFO: 完全一致
+2015-06-24 15:01:31,621 - INFO: start http getresponse_url
+2015-06-24 15:01:31,780 - INFO: 中山机票
+2015-06-24 15:01:31,780 - INFO: all_search_app65
+2015-06-24 15:01:31,780 - INFO: 完全一致
+2015-06-24 15:01:31,799 - INFO: start http getresponse_url
+2015-06-24 15:01:31,953 - INFO: 中山飞机票
+2015-06-24 15:01:31,953 - INFO: all_search_app65
+2015-06-24 15:01:31,953 - INFO: 完全一致
+2015-06-24 15:01:31,974 - INFO: start http getresponse_url
+2015-06-24 15:01:32,128 - INFO: 中山飞机
+2015-06-24 15:01:32,128 - INFO: all_search_app65
+2015-06-24 15:01:32,128 - INFO: 完全一致
+2015-06-24 15:01:32,153 - INFO: start http getresponse_url
+2015-06-24 15:01:32,293 - INFO: 中山航空
+2015-06-24 15:01:32,293 - INFO: all_search_app65
+2015-06-24 15:01:32,293 - INFO: 完全一致
+2015-06-24 15:01:32,316 - INFO: start http getresponse_url
+2015-06-24 15:01:32,467 - INFO: 中山东方航空
+2015-06-24 15:01:32,469 - INFO: all_search_app65
+2015-06-24 15:01:32,469 - INFO: 完全一致
+2015-06-24 15:01:32,493 - INFO: start http getresponse_url
+2015-06-24 15:01:32,714 - INFO: 上海酒店
+2015-06-24 15:01:32,714 - INFO: all_search_app65
+2015-06-24 15:01:32,714 - INFO: 完全一致
+2015-06-24 15:01:32,739 - INFO: start http getresponse_url
+2015-06-24 15:01:32,960 - INFO: 上海旅馆
+2015-06-24 15:01:32,961 - INFO: all_search_app65
+2015-06-24 15:01:32,961 - INFO: 完全一致
+2015-06-24 15:01:32,984 - INFO: start http getresponse_url
+2015-06-24 15:01:33,197 - INFO: 上海宾馆
+2015-06-24 15:01:33,197 - INFO: all_search_app65
+2015-06-24 15:01:33,197 - INFO: 完全一致
+2015-06-24 15:01:33,219 - INFO: start http getresponse_url
+2015-06-24 15:01:33,431 - INFO: 上海住宿
+2015-06-24 15:01:33,433 - INFO: all_search_app65
+2015-06-24 15:01:33,433 - INFO: 完全一致
+2015-06-24 15:01:33,457 - INFO: start http getresponse_url
+2015-06-24 15:01:33,667 - INFO: 上海旅店
+2015-06-24 15:01:33,667 - INFO: all_search_app65
+2015-06-24 15:01:33,667 - INFO: 完全一致
+2015-06-24 15:01:33,691 - INFO: start http getresponse_url
+2015-06-24 15:01:33,901 - INFO: 上海旅社
+2015-06-24 15:01:33,901 - INFO: all_search_app65
+2015-06-24 15:01:33,901 - INFO: 完全一致
+2015-06-24 15:01:33,926 - INFO: start http getresponse_url
+2015-06-24 15:01:34,096 - INFO: 广州酒店
+2015-06-24 15:01:34,096 - INFO: all_search_app65
+2015-06-24 15:01:34,096 - INFO: 完全一致
+2015-06-24 15:01:34,115 - INFO: start http getresponse_url
+2015-06-24 15:01:34,285 - INFO: 广州旅馆
+2015-06-24 15:01:34,285 - INFO: all_search_app65
+2015-06-24 15:01:34,285 - INFO: 完全一致
+2015-06-24 15:01:34,302 - INFO: start http getresponse_url
+2015-06-24 15:01:34,470 - INFO: 广州宾馆
+2015-06-24 15:01:34,470 - INFO: all_search_app65
+2015-06-24 15:01:34,470 - INFO: 完全一致
+2015-06-24 15:01:34,489 - INFO: start http getresponse_url
+2015-06-24 15:01:34,670 - INFO: 广州住宿
+2015-06-24 15:01:34,670 - INFO: all_search_app65
+2015-06-24 15:01:34,670 - INFO: 完全一致
+2015-06-24 15:01:34,687 - INFO: start http getresponse_url
+2015-06-24 15:01:34,855 - INFO: 广州旅店
+2015-06-24 15:01:34,855 - INFO: all_search_app65
+2015-06-24 15:01:34,855 - INFO: 完全一致
+2015-06-24 15:01:34,875 - INFO: start http getresponse_url
+2015-06-24 15:01:35,043 - INFO: 广州旅社
+2015-06-24 15:01:35,045 - INFO: all_search_app65
+2015-06-24 15:01:35,045 - INFO: 完全一致
+2015-06-24 15:01:35,068 - INFO: start http getresponse_url
+2015-06-24 15:01:35,220 - INFO: 伦敦
+2015-06-24 15:01:35,220 - INFO: all_search_app65
+2015-06-24 15:01:35,220 - INFO: 完全一致
+2015-06-24 15:01:35,240 - INFO: start http getresponse_url
+2015-06-24 15:01:35,401 - INFO: 东京
+2015-06-24 15:01:35,401 - INFO: all_search_app65
+2015-06-24 15:01:35,403 - INFO: 完全一致
+2015-06-24 15:01:35,426 - INFO: start http getresponse_url
+2015-06-24 15:01:35,621 - INFO: 北京门票
+2015-06-24 15:01:35,621 - INFO: all_search_app65
+2015-06-24 15:01:35,622 - INFO: 完全一致
+2015-06-24 15:01:35,647 - INFO: start http getresponse_url
+2015-06-24 15:01:35,838 - INFO: 北京景点
+2015-06-24 15:01:35,838 - INFO: all_search_app65
+2015-06-24 15:01:35,838 - INFO: 完全一致
+2015-06-24 15:01:35,861 - INFO: start http getresponse_url
+2015-06-24 15:01:36,016 - INFO: 伦敦
+2015-06-24 15:01:36,016 - INFO: all_search_app65
+2015-06-24 15:01:36,016 - INFO: 完全一致
+2015-06-24 15:01:36,039 - INFO: start http getresponse_url
+2015-06-24 15:01:36,226 - INFO: 北京旅游
+2015-06-24 15:01:36,226 - INFO: all_search_app65
+2015-06-24 15:01:36,226 - INFO: 完全一致
+2015-06-24 15:01:36,246 - INFO: start http getresponse_url
+2015-06-24 15:01:36,407 - INFO: 南京团购
+2015-06-24 15:01:36,407 - INFO: all_search_app65
+2015-06-24 15:01:36,407 - INFO: 完全一致
+2015-06-24 15:01:36,431 - INFO: start http getresponse_url
+2015-06-24 15:01:36,586 - INFO: 上海火车票
+2015-06-24 15:01:36,586 - INFO: all_search_app65
+2015-06-24 15:01:36,588 - INFO: 完全一致
+2015-06-24 15:01:36,611 - INFO: start http getresponse_url
+2015-06-24 15:01:36,759 - INFO: 上海火车
+2015-06-24 15:01:36,759 - INFO: all_search_app65
+2015-06-24 15:01:36,759 - INFO: 完全一致
+2015-06-24 15:01:36,782 - INFO: start http getresponse_url
+2015-06-24 15:01:36,940 - INFO: 上海列车
+2015-06-24 15:01:36,940 - INFO: all_search_app65
+2015-06-24 15:01:36,940 - INFO: 完全一致
+2015-06-24 15:01:36,963 - INFO: start http getresponse_url
+2015-06-24 15:01:37,130 - INFO: 上海高铁
+2015-06-24 15:01:37,130 - INFO: all_search_app65
+2015-06-24 15:01:37,130 - INFO: 完全一致
+2015-06-24 15:01:37,151 - INFO: start http getresponse_url
+2015-06-24 15:01:37,301 - INFO: 上海动车
+2015-06-24 15:01:37,301 - INFO: all_search_app65
+2015-06-24 15:01:37,301 - INFO: 完全一致
+2015-06-24 15:01:37,322 - INFO: start http getresponse_url
+2015-06-24 15:01:37,779 - INFO: 上海汽车
+2015-06-24 15:01:37,779 - INFO: all_search_app65
+2015-06-24 15:01:37,779 - INFO: 完全一致
+2015-06-24 15:01:37,802 - INFO: start http getresponse_url
+2015-06-24 15:01:37,957 - INFO: 上海汽车票
+2015-06-24 15:01:37,957 - INFO: all_search_app65
+2015-06-24 15:01:37,957 - INFO: 完全一致
+2015-06-24 15:01:37,980 - INFO: start http getresponse_url
+2015-06-24 15:01:38,157 - INFO: 北京汽车
+2015-06-24 15:01:38,157 - INFO: all_search_app65
+2015-06-24 15:01:38,157 - INFO: 完全一致
+2015-06-24 15:01:38,177 - INFO: start http getresponse_url
+2015-06-24 15:01:38,325 - INFO: 北京汽车票
+2015-06-24 15:01:38,325 - INFO: all_search_app65
+2015-06-24 15:01:38,325 - INFO: 完全一致
+2015-06-24 15:01:38,345 - INFO: start http getresponse_url
+2015-06-24 15:01:38,492 - INFO: 眉山汽车
+2015-06-24 15:01:38,493 - INFO: all_search_app65
+2015-06-24 15:01:38,493 - INFO: 完全一致
+2015-06-24 15:01:38,516 - INFO: start http getresponse_url
+2015-06-24 15:01:38,667 - INFO: 眉山汽车票
+2015-06-24 15:01:38,667 - INFO: all_search_app65
+2015-06-24 15:01:38,667 - INFO: 完全一致
+2015-06-24 15:01:38,688 - INFO: start http getresponse_url
+2015-06-24 15:01:38,884 - INFO: 北京当地
+2015-06-24 15:01:38,884 - INFO: all_search_app65
+2015-06-24 15:01:38,884 - INFO: 完全一致
+2015-06-24 15:01:38,908 - INFO: start http getresponse_url
+2015-06-24 15:01:39,061 - INFO: 北京导游
+2015-06-24 15:01:39,061 - INFO: all_search_app65
+2015-06-24 15:01:39,061 - INFO: 完全一致
+2015-06-24 15:01:39,082 - INFO: start http getresponse_url
+2015-06-24 15:01:39,227 - INFO: 北京地接
+2015-06-24 15:01:39,227 - INFO: all_search_app65
+2015-06-24 15:01:39,227 - INFO: 完全一致
+2015-06-24 15:01:39,252 - INFO: start http getresponse_url
+2015-06-24 15:01:39,391 - INFO: 北京保险
+2015-06-24 15:01:39,391 - INFO: all_search_app65
+2015-06-24 15:01:39,391 - INFO: 完全一致
+2015-06-24 15:01:39,415 - INFO: start http getresponse_url
+2015-06-24 15:01:39,631 - INFO: 北京圆明园
+2015-06-24 15:01:39,631 - INFO: all_search_app65
+2015-06-24 15:01:39,632 - INFO: 完全一致
+2015-06-24 15:01:39,653 - INFO: start http getresponse_url
+2015-06-24 15:01:39,789 - INFO: 巴黎巴黎铁塔
+2015-06-24 15:01:39,789 - INFO: all_search_app65
+2015-06-24 15:01:39,789 - INFO: 完全一致
+2015-06-24 15:01:39,808 - INFO: start http getresponse_url
+2015-06-24 15:01:39,970 - INFO: 巴黎铁塔
+2015-06-24 15:01:39,970 - INFO: all_search_app65
+2015-06-24 15:01:39,970 - INFO: 完全一致
+2015-06-24 15:01:39,987 - INFO: start http getresponse_url
+2015-06-24 15:01:40,138 - INFO: 上海到沈阳
+2015-06-24 15:01:40,138 - INFO: all_search_app65
+2015-06-24 15:01:40,138 - INFO: 完全一致
+2015-06-24 15:01:40,157 - INFO: start http getresponse_url
+2015-06-24 15:01:40,303 - INFO: 香港到辽宁
+2015-06-24 15:01:40,305 - INFO: all_search_app65
+2015-06-24 15:01:40,305 - INFO: 完全一致
+2015-06-24 15:01:40,322 - INFO: start http getresponse_url
+2015-06-24 15:01:40,467 - INFO: 旧金山到法国
+2015-06-24 15:01:40,467 - INFO: all_search_app65
+2015-06-24 15:01:40,467 - INFO: 完全一致
+2015-06-24 15:01:40,486 - INFO: start http getresponse_url
+2015-06-24 15:01:40,634 - INFO: 千岛湖到大连
+2015-06-24 15:01:40,634 - INFO: all_search_app65
+2015-06-24 15:01:40,634 - INFO: 完全一致
+2015-06-24 15:01:40,653 - INFO: start http getresponse_url
+2015-06-24 15:01:40,782 - INFO: 峨眉山
+到重庆
+2015-06-24 15:01:40,782 - INFO: all_search_app65
+2015-06-24 15:01:40,782 - INFO: 完全一致
+2015-06-24 15:01:40,801 - INFO: start http getresponse_url
+2015-06-24 15:01:40,951 - INFO: 澳门到巴黎
+2015-06-24 15:01:40,951 - INFO: all_search_app65
+2015-06-24 15:01:40,951 - INFO: 完全一致
+2015-06-24 15:01:40,970 - INFO: start http getresponse_url
+2015-06-24 15:01:41,119 - INFO: 德国到吉林
+2015-06-24 15:01:41,119 - INFO: all_search_app65
+2015-06-24 15:01:41,119 - INFO: 完全一致
+2015-06-24 15:01:41,138 - INFO: start http getresponse_url
+2015-06-24 15:01:41,280 - INFO: 西安到常州
+2015-06-24 15:01:41,280 - INFO: all_search_app65
+2015-06-24 15:01:41,280 - INFO: 完全一致
+2015-06-24 15:01:41,299 - INFO: start http getresponse_url
+2015-06-24 15:01:41,444 - INFO: 上海到沈阳
+2015-06-24 15:01:41,444 - INFO: all_search_app65
+2015-06-24 15:01:41,444 - INFO: 完全一致
+2015-06-24 15:01:41,461 - INFO: start http getresponse_url
+2015-06-24 15:01:41,617 - INFO: 香港到辽宁
+2015-06-24 15:01:41,618 - INFO: all_search_app65
+2015-06-24 15:01:41,618 - INFO: 完全一致
+2015-06-24 15:01:41,635 - INFO: start http getresponse_url
+2015-06-24 15:01:41,782 - INFO: 旧金山到法国
+2015-06-24 15:01:41,782 - INFO: all_search_app65
+2015-06-24 15:01:41,782 - INFO: 完全一致
+2015-06-24 15:01:41,801 - INFO: start http getresponse_url
+2015-06-24 15:01:41,950 - INFO: 千岛湖到大连
+2015-06-24 15:01:41,950 - INFO: all_search_app65
+2015-06-24 15:01:41,950 - INFO: 完全一致
+2015-06-24 15:01:41,967 - INFO: start http getresponse_url
+2015-06-24 15:01:42,095 - INFO: 峨眉山
+到重庆
+2015-06-24 15:01:42,095 - INFO: all_search_app65
+2015-06-24 15:01:42,095 - INFO: 完全一致
+2015-06-24 15:01:42,119 - INFO: start http getresponse_url
+2015-06-24 15:01:42,263 - INFO: 澳门到巴黎
+2015-06-24 15:01:42,263 - INFO: all_search_app65
+2015-06-24 15:01:42,263 - INFO: 完全一致
+2015-06-24 15:01:42,288 - INFO: start http getresponse_url
+2015-06-24 15:01:42,434 - INFO: 德国到吉林
+2015-06-24 15:01:42,434 - INFO: all_search_app65
+2015-06-24 15:01:42,434 - INFO: 完全一致
+2015-06-24 15:01:42,451 - INFO: start http getresponse_url
+2015-06-24 15:01:42,604 - INFO: 西安到常州
+2015-06-24 15:01:42,604 - INFO: all_search_app65
+2015-06-24 15:01:42,604 - INFO: 完全一致
+2015-06-24 15:01:42,621 - INFO: start http getresponse_url
+2015-06-24 15:01:42,769 - INFO: 上海到本溪
+2015-06-24 15:01:42,769 - INFO: all_search_app65
+2015-06-24 15:01:42,769 - INFO: 完全一致
+2015-06-24 15:01:42,788 - INFO: start http getresponse_url
+2015-06-24 15:01:42,908 - INFO: 上海到西藏
+
+2015-06-24 15:01:42,908 - INFO: all_search_app65
+2015-06-24 15:01:42,908 - INFO: 完全一致
+2015-06-24 15:01:42,927 - INFO: start http getresponse_url
+2015-06-24 15:01:43,063 - INFO: 上海到沈阳
+2015-06-24 15:01:43,063 - INFO: all_search_app65
+2015-06-24 15:01:43,063 - INFO: 完全一致
+2015-06-24 15:01:43,082 - INFO: start http getresponse_url
+2015-06-24 15:01:43,230 - INFO: 上海到灯塔
+2015-06-24 15:01:43,230 - INFO: all_search_app65
+2015-06-24 15:01:43,230 - INFO: 完全一致
+2015-06-24 15:01:43,253 - INFO: start http getresponse_url
+2015-06-24 15:01:43,400 - INFO: 上海到灯塔
+2015-06-24 15:01:43,400 - INFO: all_search_app65
+2015-06-24 15:01:43,400 - INFO: 完全一致
+2015-06-24 15:01:43,423 - INFO: start http getresponse_url
+2015-06-24 15:01:43,572 - INFO: 上海到本溪
+2015-06-24 15:01:43,572 - INFO: all_search_app65
+2015-06-24 15:01:43,572 - INFO: 完全一致
+2015-06-24 15:01:43,594 - INFO: start http getresponse_url
+2015-06-24 15:01:43,713 - INFO: 上海到西藏
+
+2015-06-24 15:01:43,713 - INFO: all_search_app65
+2015-06-24 15:01:43,713 - INFO: 完全一致
+2015-06-24 15:01:43,736 - INFO: start http getresponse_url
+2015-06-24 15:01:43,884 - INFO: 上海到沈阳
+2015-06-24 15:01:43,884 - INFO: all_search_app65
+2015-06-24 15:01:43,884 - INFO: 完全一致
+2015-06-24 15:01:43,905 - INFO: start http getresponse_url
+2015-06-24 15:01:44,042 - INFO: 上海到灯塔
+2015-06-24 15:01:44,043 - INFO: all_search_app65
+2015-06-24 15:01:44,043 - INFO: 完全一致
+2015-06-24 15:01:44,065 - INFO: start http getresponse_url
+2015-06-24 15:01:44,226 - INFO: 上海到灯塔
+2015-06-24 15:01:44,226 - INFO: all_search_app65
+2015-06-24 15:01:44,226 - INFO: 完全一致
+2015-06-24 15:01:44,247 - INFO: start http getresponse_url
+2015-06-24 15:01:44,384 - INFO: 上海到沈阳
+2015-06-24 15:01:44,384 - INFO: all_search_app65
+2015-06-24 15:01:44,384 - INFO: 完全一致
+2015-06-24 15:01:44,407 - INFO: start http getresponse_url
+2015-06-24 15:01:44,562 - INFO: 香港至辽宁
+2015-06-24 15:01:44,562 - INFO: all_search_app65
+2015-06-24 15:01:44,562 - INFO: 完全一致
+2015-06-24 15:01:44,582 - INFO: start http getresponse_url
+2015-06-24 15:01:44,734 - INFO: 旧金山 法国
+2015-06-24 15:01:44,734 - INFO: all_search_app65
+2015-06-24 15:01:44,734 - INFO: 完全一致
+2015-06-24 15:01:44,757 - INFO: start http getresponse_url
+2015-06-24 15:01:44,921 - INFO: 从千岛湖去大连
+2015-06-24 15:01:44,921 - INFO: all_search_app65
+2015-06-24 15:01:44,921 - INFO: 完全一致
+2015-06-24 15:01:44,941 - INFO: start http getresponse_url
+2015-06-24 15:01:45,121 - INFO: 从峨眉山到重庆
+2015-06-24 15:01:45,121 - INFO: all_search_app65
+2015-06-24 15:01:45,121 - INFO: 完全一致
+2015-06-24 15:01:45,141 - INFO: start http getresponse_url
+2015-06-24 15:01:45,292 - INFO: 澳门-巴黎
+2015-06-24 15:01:45,292 - INFO: all_search_app65
+2015-06-24 15:01:45,292 - INFO: 完全一致
+2015-06-24 15:01:45,315 - INFO: start http getresponse_url
+2015-06-24 15:01:45,477 - INFO: 浙江到杭州
+2015-06-24 15:01:45,477 - INFO: all_search_app65
+2015-06-24 15:01:45,477 - INFO: 完全一致
+2015-06-24 15:01:45,499 - INFO: start http getresponse_url
+2015-06-24 15:01:45,641 - INFO: 去重庆
+2015-06-24 15:01:45,641 - INFO: all_search_app65
+2015-06-24 15:01:45,641 - INFO: 完全一致
+2015-06-24 15:01:45,661 - INFO: start http getresponse_url
+2015-06-24 15:01:45,802 - INFO: 去澳门
+2015-06-24 15:01:45,802 - INFO: all_search_app65
+2015-06-24 15:01:45,802 - INFO: 完全一致
+2015-06-24 15:01:45,825 - INFO: start http getresponse_url
+2015-06-24 15:01:45,971 - INFO: 去巴黎
+2015-06-24 15:01:45,971 - INFO: all_search_app65
+2015-06-24 15:01:45,971 - INFO: 完全一致
+2015-06-24 15:01:45,992 - INFO: start http getresponse_url
+2015-06-24 15:01:46,135 - INFO: 到德国
+2015-06-24 15:01:46,135 - INFO: all_search_app65
+2015-06-24 15:01:46,137 - INFO: 完全一致
+2015-06-24 15:01:46,160 - INFO: start http getresponse_url
+2015-06-24 15:01:46,306 - INFO: 到吉林
+2015-06-24 15:01:46,306 - INFO: all_search_app65
+2015-06-24 15:01:46,306 - INFO: 完全一致
+2015-06-24 15:01:46,331 - INFO: start http getresponse_url
+2015-06-24 15:01:46,476 - INFO: 到西安
+2015-06-24 15:01:46,477 - INFO: all_search_app65
+2015-06-24 15:01:46,477 - INFO: 完全一致
+2015-06-24 15:01:46,499 - INFO: start http getresponse_url
+2015-06-24 15:01:46,661 - INFO: 到常州
+2015-06-24 15:01:46,663 - INFO: all_search_app65
+2015-06-24 15:01:46,663 - INFO: 完全一致
+2015-06-24 15:01:46,686 - INFO: start http getresponse_url
+2015-06-24 15:01:46,825 - INFO: 到韩国
+2015-06-24 15:01:46,826 - INFO: all_search_app65
+2015-06-24 15:01:46,826 - INFO: 完全一致
+2015-06-24 15:01:46,848 - INFO: start http getresponse_url
+2015-06-24 15:01:46,994 - INFO: 3月5日上海到沈阳
+2015-06-24 15:01:46,994 - INFO: all_search_app65
+2015-06-24 15:01:46,994 - INFO: 完全一致
+2015-06-24 15:01:47,019 - INFO: start http getresponse_url
+2015-06-24 15:01:47,138 - INFO: 
+三月五日沈阳到上海
+2015-06-24 15:01:47,138 - INFO: all_search_app65
+2015-06-24 15:01:47,138 - INFO: 完全一致
+2015-06-24 15:01:47,161 - INFO: start http getresponse_url
+2015-06-24 15:01:47,288 - INFO: 
+沈阳到上海后天
+2015-06-24 15:01:47,288 - INFO: all_search_app65
+2015-06-24 15:01:47,288 - INFO: 完全一致
+2015-06-24 15:01:47,309 - INFO: start http getresponse_url
+2015-06-24 15:01:47,447 - INFO: 3月5日上海到沈阳
+2015-06-24 15:01:47,448 - INFO: all_search_app65
+2015-06-24 15:01:47,448 - INFO: 完全一致
+2015-06-24 15:01:47,470 - INFO: start http getresponse_url
+2015-06-24 15:01:47,615 - INFO: 
+三月五日沈阳到上海
+2015-06-24 15:01:47,615 - INFO: all_search_app65
+2015-06-24 15:01:47,615 - INFO: 完全一致
+2015-06-24 15:01:47,638 - INFO: start http getresponse_url
+2015-06-24 15:01:47,782 - INFO: 
+沈阳到上海后天
+2015-06-24 15:01:47,782 - INFO: all_search_app65
+2015-06-24 15:01:47,782 - INFO: 完全一致
+2015-06-24 15:01:47,806 - INFO: start http getresponse_url
+2015-06-24 15:01:47,954 - INFO: 3月5日上海到沈阳
+2015-06-24 15:01:47,954 - INFO: all_search_app65
+2015-06-24 15:01:47,954 - INFO: 完全一致
+2015-06-24 15:01:47,979 - INFO: start http getresponse_url
+2015-06-24 15:01:48,117 - INFO: 
+三月五日沈阳到上海
+2015-06-24 15:01:48,117 - INFO: all_search_app65
+2015-06-24 15:01:48,117 - INFO: 完全一致
+2015-06-24 15:01:48,140 - INFO: start http getresponse_url
+2015-06-24 15:01:48,272 - INFO: 
+沈阳到上海后天
+2015-06-24 15:01:48,272 - INFO: all_search_app65
+2015-06-24 15:01:48,272 - INFO: 完全一致
+2015-06-24 15:01:48,296 - INFO: start http getresponse_url
+2015-06-24 15:01:48,621 - INFO: X月X日
+2015-06-24 15:01:48,622 - INFO: all_search_app65
+2015-06-24 15:01:48,622 - INFO: 完全一致
+2015-06-24 15:01:48,644 - INFO: start http getresponse_url
+2015-06-24 15:01:48,913 - INFO: xx年x月x日
+2015-06-24 15:01:48,913 - INFO: all_search_app65
+2015-06-24 15:01:48,913 - INFO: 完全一致
+2015-06-24 15:01:48,937 - INFO: start http getresponse_url
+2015-06-24 15:01:49,188 - INFO: xx年x月x号
+2015-06-24 15:01:49,188 - INFO: all_search_app65
+2015-06-24 15:01:49,188 - INFO: 完全一致
+2015-06-24 15:01:49,213 - INFO: start http getresponse_url
+2015-06-24 15:01:49,362 - INFO: 今天去重庆
+2015-06-24 15:01:49,362 - INFO: all_search_app65
+2015-06-24 15:01:49,362 - INFO: 完全一致
+2015-06-24 15:01:49,387 - INFO: start http getresponse_url
+2015-06-24 15:01:49,528 - INFO: 明天上海到沈阳
+2015-06-24 15:01:49,529 - INFO: all_search_app65
+2015-06-24 15:01:49,529 - INFO: 完全一致
+2015-06-24 15:01:49,552 - INFO: start http getresponse_url
+2015-06-24 15:01:49,739 - INFO: 后天到德国
+2015-06-24 15:01:49,739 - INFO: all_search_app65
+2015-06-24 15:01:49,739 - INFO: 完全一致
+2015-06-24 15:01:49,756 - INFO: start http getresponse_url
+2015-06-24 15:01:49,895 - INFO: 下周香港至辽宁
+2015-06-24 15:01:49,895 - INFO: all_search_app65
+2015-06-24 15:01:49,895 - INFO: 完全一致
+2015-06-24 15:01:49,914 - INFO: start http getresponse_url
+2015-06-24 15:01:50,058 - INFO: 下月从峨眉山到重庆
+2015-06-24 15:01:50,058 - INFO: all_search_app65
+2015-06-24 15:01:50,058 - INFO: 完全一致
+2015-06-24 15:01:50,081 - INFO: start http getresponse_url
+2015-06-24 15:01:50,391 - INFO: X月X日
+2015-06-24 15:01:50,391 - INFO: all_search_app65
+2015-06-24 15:01:50,391 - INFO: 完全一致
+2015-06-24 15:01:50,414 - INFO: start http getresponse_url
+2015-06-24 15:01:50,674 - INFO: xx年x月x日
+2015-06-24 15:01:50,674 - INFO: all_search_app65
+2015-06-24 15:01:50,674 - INFO: 完全一致
+2015-06-24 15:01:50,697 - INFO: start http getresponse_url
+2015-06-24 15:01:50,826 - INFO: 
+xx年x月x号
+2015-06-24 15:01:50,826 - INFO: all_search_app65
+2015-06-24 15:01:50,826 - INFO: 完全一致
+2015-06-24 15:01:50,851 - INFO: start http getresponse_url
+2015-06-24 15:01:51,407 - INFO: 日期在当前日期之前
+2015-06-24 15:01:51,407 - INFO: all_search_app65
+2015-06-24 15:01:51,407 - INFO: 完全一致
+2015-06-24 15:01:51,431 - INFO: start http getresponse_url
+2015-06-24 15:01:51,755 - INFO: X月X日
+2015-06-24 15:01:51,755 - INFO: all_search_app65
+2015-06-24 15:01:51,755 - INFO: 完全一致
+2015-06-24 15:01:51,779 - INFO: start http getresponse_url
+2015-06-24 15:01:52,030 - INFO: xx年x月x日
+2015-06-24 15:01:52,030 - INFO: all_search_app65
+2015-06-24 15:01:52,030 - INFO: 完全一致
+2015-06-24 15:01:52,055 - INFO: start http getresponse_url
+2015-06-24 15:01:52,188 - INFO: 
+xx年x月x号
+2015-06-24 15:01:52,188 - INFO: all_search_app65
+2015-06-24 15:01:52,188 - INFO: 完全一致
+2015-06-24 15:01:52,211 - INFO: start http getresponse_url
+2015-06-24 15:01:52,773 - INFO: 日期在当前日期之前
+2015-06-24 15:01:52,773 - INFO: all_search_app65
+2015-06-24 15:01:52,773 - INFO: 完全一致
+2015-06-24 15:01:52,796 - INFO: start http getresponse_url
+2015-06-24 15:01:53,015 - INFO: 北京
+2015-06-24 15:01:53,015 - INFO: all_search_app65
+2015-06-24 15:01:53,015 - INFO: 完全一致
+2015-06-24 15:01:53,038 - INFO: start http getresponse_url
+2015-06-24 15:01:53,201 - INFO: 辽阳
+2015-06-24 15:01:53,201 - INFO: all_search_app65
+2015-06-24 15:01:53,201 - INFO: 完全一致
+2015-06-24 15:01:53,223 - INFO: start http getresponse_url
+2015-06-24 15:01:53,368 - INFO: 灯塔
+2015-06-24 15:01:53,368 - INFO: all_search_app65
+2015-06-24 15:01:53,368 - INFO: 完全一致
+2015-06-24 15:01:53,391 - INFO: start http getresponse_url
+2015-06-24 15:01:53,552 - INFO: 香港
+2015-06-24 15:01:53,552 - INFO: all_search_app65
+2015-06-24 15:01:53,552 - INFO: 完全一致
+2015-06-24 15:01:53,576 - INFO: start http getresponse_url
+2015-06-24 15:01:53,733 - INFO: 台北
+2015-06-24 15:01:53,733 - INFO: all_search_app65
+2015-06-24 15:01:53,734 - INFO: 完全一致
+2015-06-24 15:01:53,757 - INFO: start http getresponse_url
+2015-06-24 15:01:53,923 - INFO: 澳门
+2015-06-24 15:01:53,924 - INFO: all_search_app65
+2015-06-24 15:01:53,924 - INFO: 完全一致
+2015-06-24 15:01:53,947 - INFO: start http getresponse_url
+2015-06-24 15:01:54,115 - INFO: 澳大利亚
+2015-06-24 15:01:54,115 - INFO: all_search_app65
+2015-06-24 15:01:54,115 - INFO: 完全一致
+2015-06-24 15:01:54,138 - INFO: start http getresponse_url
+2015-06-24 15:01:54,302 - INFO: 辽宁
+2015-06-24 15:01:54,302 - INFO: all_search_app65
+2015-06-24 15:01:54,302 - INFO: 完全一致
+2015-06-24 15:01:54,326 - INFO: start http getresponse_url
+2015-06-24 15:01:54,486 - INFO: 新加坡
+2015-06-24 15:01:54,486 - INFO: all_search_app65
+2015-06-24 15:01:54,486 - INFO: 完全一致
+2015-06-24 15:01:54,509 - INFO: start http getresponse_url
+2015-06-24 15:01:54,674 - INFO: 巴黎
+2015-06-24 15:01:54,674 - INFO: all_search_app65
+2015-06-24 15:01:54,674 - INFO: 完全一致
+2015-06-24 15:01:54,697 - INFO: start http getresponse_url
+2015-06-24 15:01:54,858 - INFO: 法国
+2015-06-24 15:01:54,858 - INFO: all_search_app65
+2015-06-24 15:01:54,859 - INFO: 完全一致
+2015-06-24 15:01:54,881 - INFO: start http getresponse_url
+2015-06-24 15:01:55,400 - INFO: 没这个城市
+2015-06-24 15:01:55,400 - INFO: all_search_app65
+2015-06-24 15:01:55,401 - INFO: 完全一致
+2015-06-24 15:01:55,424 - INFO: start http getresponse_url
+2015-06-24 15:01:55,576 - INFO: 沈阳 保险
+2015-06-24 15:01:55,576 - INFO: all_search_app65
+2015-06-24 15:01:55,576 - INFO: 完全一致
+2015-06-24 15:01:55,596 - INFO: start http getresponse_url
+2015-06-24 15:01:55,743 - INFO: 沈阳的保险
+2015-06-24 15:01:55,743 - INFO: all_search_app65
+2015-06-24 15:01:55,744 - INFO: 完全一致
+2015-06-24 15:01:55,767 - INFO: start http getresponse_url
+2015-06-24 15:01:56,316 - INFO: 华泰财险
+2015-06-24 15:01:56,318 - INFO: all_search_app65
+2015-06-24 15:01:56,318 - INFO: 完全一致
+2015-06-24 15:01:56,341 - INFO: start http getresponse_url
+2015-06-24 15:01:56,868 - INFO: 平安财险
+2015-06-24 15:01:56,868 - INFO: all_search_app65
+2015-06-24 15:01:56,868 - INFO: 完全一致
+2015-06-24 15:01:56,891 - INFO: start http getresponse_url
+2015-06-24 15:01:57,421 - INFO: 美亚保险
+2015-06-24 15:01:57,421 - INFO: all_search_app65
+2015-06-24 15:01:57,421 - INFO: 完全一致
+2015-06-24 15:01:57,444 - INFO: start http getresponse_url
+2015-06-24 15:01:57,963 - INFO: 安盛天平
+2015-06-24 15:01:57,963 - INFO: all_search_app65
+2015-06-24 15:01:57,963 - INFO: 完全一致
+2015-06-24 15:01:57,986 - INFO: start http getresponse_url
+2015-06-24 15:01:58,161 - INFO: 中国人寿
+2015-06-24 15:01:58,161 - INFO: all_search_app65
+2015-06-24 15:01:58,161 - INFO: 完全一致
+2015-06-24 15:01:58,186 - INFO: start http getresponse_url
+2015-06-24 15:01:58,365 - INFO: 申根签证
+2015-06-24 15:01:58,365 - INFO: all_search_app65
+2015-06-24 15:01:58,365 - INFO: 完全一致
+2015-06-24 15:01:58,388 - INFO: start http getresponse_url
+2015-06-24 15:01:58,569 - INFO: 出国留学
+2015-06-24 15:01:58,569 - INFO: all_search_app65
+2015-06-24 15:01:58,569 - INFO: 完全一致
+2015-06-24 15:01:58,592 - INFO: start http getresponse_url
+2015-06-24 15:01:59,111 - INFO: 商旅出行
+2015-06-24 15:01:59,111 - INFO: all_search_app65
+2015-06-24 15:01:59,111 - INFO: 完全一致
+2015-06-24 15:01:59,134 - INFO: start http getresponse_url
+2015-06-24 15:01:59,654 - INFO: 邮轮观光
+2015-06-24 15:01:59,654 - INFO: all_search_app65
+2015-06-24 15:01:59,654 - INFO: 完全一致
+2015-06-24 15:01:59,677 - INFO: start http getresponse_url
+2015-06-24 15:01:59,849 - INFO: 观光旅游
+2015-06-24 15:01:59,849 - INFO: all_search_app65
+2015-06-24 15:01:59,849 - INFO: 完全一致
+2015-06-24 15:01:59,874 - INFO: start http getresponse_url
+2015-06-24 15:02:00,066 - INFO: 高原旅游
+2015-06-24 15:02:00,066 - INFO: all_search_app65
+2015-06-24 15:02:00,066 - INFO: 完全一致
+2015-06-24 15:02:00,088 - INFO: start http getresponse_url
+2015-06-24 15:02:00,237 - INFO: 户外运动
+2015-06-24 15:02:00,237 - INFO: all_search_app65
+2015-06-24 15:02:00,237 - INFO: 完全一致
+2015-06-24 15:02:00,259 - INFO: start http getresponse_url
+2015-06-24 15:02:00,444 - INFO: 海岛旅游
+2015-06-24 15:02:00,444 - INFO: all_search_app65
+2015-06-24 15:02:00,444 - INFO: 完全一致
+2015-06-24 15:02:00,464 - INFO: start http getresponse_url
+2015-06-24 15:02:00,654 - INFO: 自驾旅游
+2015-06-24 15:02:00,654 - INFO: all_search_app65
+2015-06-24 15:02:00,654 - INFO: 完全一致
+2015-06-24 15:02:00,676 - INFO: start http getresponse_url
+2015-06-24 15:02:00,838 - INFO: 滑雪运动
+2015-06-24 15:02:00,838 - INFO: all_search_app65
+2015-06-24 15:02:00,838 - INFO: 完全一致
+2015-06-24 15:02:00,859 - INFO: start http getresponse_url
+2015-06-24 15:02:01,085 - INFO: 全年计划
+2015-06-24 15:02:01,085 - INFO: all_search_app65
+2015-06-24 15:02:01,085 - INFO: 完全一致
+2015-06-24 15:02:01,108 - INFO: start http getresponse_url
+2015-06-24 15:02:01,644 - INFO: 上海华泰财险
+2015-06-24 15:02:01,644 - INFO: all_search_app65
+2015-06-24 15:02:01,644 - INFO: 完全一致
+2015-06-24 15:02:01,665 - INFO: start http getresponse_url
+2015-06-24 15:02:02,191 - INFO: 辽阳滑雪运动
+2015-06-24 15:02:02,191 - INFO: all_search_app65
+2015-06-24 15:02:02,191 - INFO: 完全一致
+2015-06-24 15:02:02,211 - INFO: start http getresponse_url
+2015-06-24 15:02:02,750 - INFO: 新加坡安盛天平中国人寿
+2015-06-24 15:02:02,750 - INFO: all_search_app65
+2015-06-24 15:02:02,750 - INFO: 完全一致
+2015-06-24 15:02:02,773 - INFO: start http getresponse_url
+2015-06-24 15:02:03,289 - INFO: 安盛天平中国人寿
+2015-06-24 15:02:03,289 - INFO: all_search_app65
+2015-06-24 15:02:03,289 - INFO: 完全一致
+2015-06-24 15:02:03,312 - INFO: start http getresponse_url
+2015-06-24 15:02:03,832 - INFO: 法国高原旅游户外运动
+2015-06-24 15:02:03,832 - INFO: all_search_app65
+2015-06-24 15:02:03,832 - INFO: 完全一致
+2015-06-24 15:02:03,857 - INFO: start http getresponse_url
+2015-06-24 15:02:04,378 - INFO: 高原旅游户外运动
+2015-06-24 15:02:04,378 - INFO: all_search_app65
+2015-06-24 15:02:04,378 - INFO: 完全一致
+2015-06-24 15:02:04,401 - INFO: start http getresponse_url
+2015-06-24 15:02:04,946 - INFO: 法国高原旅游户外运动安盛天平中国人寿
+2015-06-24 15:02:04,947 - INFO: all_search_app65
+2015-06-24 15:02:04,947 - INFO: 完全一致
+2015-06-24 15:02:04,970 - INFO: start http getresponse_url
+2015-06-24 15:02:05,510 - INFO: 安盛天平中国人寿高原旅游户外运动
+2015-06-24 15:02:05,510 - INFO: all_search_app65
+2015-06-24 15:02:05,510 - INFO: 完全一致
+2015-06-24 15:02:05,533 - INFO: start http getresponse_url
+2015-06-24 15:02:05,674 - INFO: 希尔顿
+2015-06-24 15:02:05,676 - INFO: all_search_app65
+2015-06-24 15:02:05,676 - INFO: 完全一致
+2015-06-24 15:02:05,697 - INFO: start http getresponse_url
+2015-06-24 15:02:05,848 - INFO: 四季
+2015-06-24 15:02:05,848 - INFO: all_search_app65
+2015-06-24 15:02:05,848 - INFO: 完全一致
+2015-06-24 15:02:05,868 - INFO: start http getresponse_url
+2015-06-24 15:02:06,009 - INFO: 喜来登
+2015-06-24 15:02:06,010 - INFO: all_search_app65
+2015-06-24 15:02:06,010 - INFO: 完全一致
+2015-06-24 15:02:06,030 - INFO: start http getresponse_url
+2015-06-24 15:02:06,174 - INFO: 洲际
+2015-06-24 15:02:06,174 - INFO: all_search_app65
+2015-06-24 15:02:06,174 - INFO: 完全一致
+2015-06-24 15:02:06,198 - INFO: start http getresponse_url
+2015-06-24 15:02:06,352 - INFO: 如家
+2015-06-24 15:02:06,352 - INFO: all_search_app65
+2015-06-24 15:02:06,352 - INFO: 完全一致
+2015-06-24 15:02:06,375 - INFO: start http getresponse_url
+2015-06-24 15:02:06,538 - INFO: 如家快捷酒店
+2015-06-24 15:02:06,538 - INFO: all_search_app65
+2015-06-24 15:02:06,538 - INFO: 完全一致
+2015-06-24 15:02:06,559 - INFO: start http getresponse_url
+2015-06-24 15:02:06,713 - INFO: 上海希尔顿
+2015-06-24 15:02:06,713 - INFO: all_search_app65
+2015-06-24 15:02:06,713 - INFO: 完全一致
+2015-06-24 15:02:06,733 - INFO: start http getresponse_url
+2015-06-24 15:02:06,869 - INFO: 沈阳布丁
+2015-06-24 15:02:06,869 - INFO: all_search_app65
+2015-06-24 15:02:06,871 - INFO: 完全一致
+2015-06-24 15:02:06,888 - INFO: start http getresponse_url
+2015-06-24 15:02:07,444 - INFO: 香港希尔顿
+2015-06-24 15:02:07,444 - INFO: all_search_app65
+2015-06-24 15:02:07,444 - INFO: 完全一致
+2015-06-24 15:02:07,469 - INFO: start http getresponse_url
+2015-06-24 15:02:07,674 - INFO: 香港港丽酒店
+2015-06-24 15:02:07,674 - INFO: all_search_app65
+2015-06-24 15:02:07,674 - INFO: 完全一致
+2015-06-24 15:02:07,700 - INFO: start http getresponse_url
+2015-06-24 15:02:07,897 - INFO: 澳门威尼斯人
+2015-06-24 15:02:07,897 - INFO: all_search_app65
+2015-06-24 15:02:07,897 - INFO: 完全一致
+2015-06-24 15:02:07,921 - INFO: start http getresponse_url
+2015-06-24 15:02:08,068 - INFO: 台北喜来登
+2015-06-24 15:02:08,068 - INFO: all_search_app65
+2015-06-24 15:02:08,068 - INFO: 完全一致
+2015-06-24 15:02:08,092 - INFO: start http getresponse_url
+2015-06-24 15:02:08,229 - INFO: 巴黎洲际
+2015-06-24 15:02:08,230 - INFO: all_search_app65
+2015-06-24 15:02:08,230 - INFO: 完全一致
+2015-06-24 15:02:08,253 - INFO: start http getresponse_url
+2015-06-24 15:02:08,414 - INFO: 文华东方
+2015-06-24 15:02:08,414 - INFO: all_search_app65
+2015-06-24 15:02:08,415 - INFO: 完全一致
+2015-06-24 15:02:08,438 - INFO: start http getresponse_url
+2015-06-24 15:02:08,645 - INFO: 东方明珠
+2015-06-24 15:02:08,645 - INFO: all_search_app65
+2015-06-24 15:02:08,647 - INFO: 完全一致
+2015-06-24 15:02:08,667 - INFO: start http getresponse_url
+2015-06-24 15:02:08,867 - INFO: dongfangmingzhu
+2015-06-24 15:02:08,868 - INFO: all_search_app65
+2015-06-24 15:02:08,868 - INFO: 完全一致
+2015-06-24 15:02:08,891 - INFO: start http getresponse_url
+2015-06-24 15:02:09,039 - INFO: 九寨沟风景区
+2015-06-24 15:02:09,040 - INFO: all_search_app65
+2015-06-24 15:02:09,040 - INFO: 完全一致
+2015-06-24 15:02:09,059 - INFO: start http getresponse_url
+2015-06-24 15:02:09,219 - INFO: jiuzhaigoufengjingqu
+2015-06-24 15:02:09,219 - INFO: all_search_app65
+2015-06-24 15:02:09,220 - INFO: 完全一致
+2015-06-24 15:02:09,243 - INFO: start http getresponse_url
+2015-06-24 15:02:09,413 - INFO: 埃菲尔铁塔
+2015-06-24 15:02:09,413 - INFO: all_search_app65
+2015-06-24 15:02:09,413 - INFO: 完全一致
+2015-06-24 15:02:09,434 - INFO: start http getresponse_url
+2015-06-24 15:02:09,607 - INFO: Eiffel Tower
+2015-06-24 15:02:09,608 - INFO: all_search_app65
+2015-06-24 15:02:09,608 - INFO: 完全一致
+2015-06-24 15:02:09,631 - INFO: start http getresponse_url
+2015-06-24 15:02:09,803 - INFO: aifeiertieta
+2015-06-24 15:02:09,805 - INFO: all_search_app65
+2015-06-24 15:02:09,805 - INFO: 完全一致
+2015-06-24 15:02:09,826 - INFO: start http getresponse_url
+2015-06-24 15:02:10,046 - INFO: 世纪公园
+2015-06-24 15:02:10,046 - INFO: all_search_app65
+2015-06-24 15:02:10,046 - INFO: 完全一致
+2015-06-24 15:02:10,065 - INFO: start http getresponse_url
+2015-06-24 15:02:10,265 - INFO: shijigongyuan
+2015-06-24 15:02:10,265 - INFO: all_search_app65
+2015-06-24 15:02:10,265 - INFO: 完全一致
+2015-06-24 15:02:10,285 - INFO: start http getresponse_url
+2015-06-24 15:02:10,480 - INFO: 圆明园
+2015-06-24 15:02:10,480 - INFO: all_search_app65
+2015-06-24 15:02:10,480 - INFO: 完全一致
+2015-06-24 15:02:10,506 - INFO: start http getresponse_url
+2015-06-24 15:02:10,719 - INFO: yuanmingyuan
+2015-06-24 15:02:10,719 - INFO: all_search_app65
+2015-06-24 15:02:10,719 - INFO: 完全一致
+2015-06-24 15:02:10,743 - INFO: start http getresponse_url
+2015-06-24 15:02:10,944 - INFO: 东方明珠
+2015-06-24 15:02:10,944 - INFO: all_search_app65
+2015-06-24 15:02:10,944 - INFO: 完全一致
+2015-06-24 15:02:10,969 - INFO: start http getresponse_url
+2015-06-24 15:02:11,562 - INFO: 大名湖景区
+2015-06-24 15:02:11,562 - INFO: all_search_app65
+2015-06-24 15:02:11,562 - INFO: 完全一致
+2015-06-24 15:02:11,584 - INFO: start http getresponse_url
+2015-06-24 15:02:11,736 - INFO: 九寨沟
+2015-06-24 15:02:11,736 - INFO: all_search_app65
+2015-06-24 15:02:11,736 - INFO: 完全一致
+2015-06-24 15:02:11,753 - INFO: start http getresponse_url
+2015-06-24 15:02:11,914 - INFO: 大明湖
+2015-06-24 15:02:11,914 - INFO: all_search_app65
+2015-06-24 15:02:11,914 - INFO: 完全一致
+2015-06-24 15:02:11,937 - INFO: start http getresponse_url
+2015-06-24 15:02:12,108 - INFO: 西湖
+2015-06-24 15:02:12,108 - INFO: all_search_app65
+2015-06-24 15:02:12,108 - INFO: 完全一致
+2015-06-24 15:02:12,132 - INFO: start http getresponse_url
+2015-06-24 15:02:12,278 - INFO: 甘肃博物馆
+2015-06-24 15:02:12,278 - INFO: all_search_app65
+2015-06-24 15:02:12,278 - INFO: 完全一致
+2015-06-24 15:02:12,301 - INFO: start http getresponse_url
+2015-06-24 15:02:12,482 - INFO: 凯旋门
+2015-06-24 15:02:12,482 - INFO: all_search_app65
+2015-06-24 15:02:12,482 - INFO: 完全一致
+2015-06-24 15:02:12,506 - INFO: start http getresponse_url
+2015-06-24 15:02:12,697 - INFO: 巴黎圣母院
+2015-06-24 15:02:12,697 - INFO: all_search_app65
+2015-06-24 15:02:12,697 - INFO: 完全一致
+2015-06-24 15:02:12,717 - INFO: start http getresponse_url
+2015-06-24 15:02:12,921 - INFO: 爱上海
+2015-06-24 15:02:12,921 - INFO: all_search_app65
+2015-06-24 15:02:12,921 - INFO: 完全一致
+2015-06-24 15:02:12,946 - INFO: start http getresponse_url
+2015-06-24 15:02:13,187 - INFO: 故宫
+2015-06-24 15:02:13,187 - INFO: all_search_app65
+2015-06-24 15:02:13,187 - INFO: 完全一致
+2015-06-24 15:02:13,210 - INFO: start http getresponse_url
+2015-06-24 15:02:13,361 - INFO: 博物馆
+2015-06-24 15:02:13,361 - INFO: all_search_app65
+2015-06-24 15:02:13,361 - INFO: 完全一致
+2015-06-24 15:02:13,378 - INFO: start http getresponse_url
+2015-06-24 15:02:13,536 - INFO: 游乐场
+2015-06-24 15:02:13,536 - INFO: all_search_app65
+2015-06-24 15:02:13,536 - INFO: 完全一致
+2015-06-24 15:02:13,559 - INFO: start http getresponse_url
+2015-06-24 15:02:13,769 - INFO: 上海
+2015-06-24 15:02:13,769 - INFO: all_search_app65
+2015-06-24 15:02:13,769 - INFO: 完全一致
+2015-06-24 15:02:13,790 - INFO: start http getresponse_url
+2015-06-24 15:02:13,950 - INFO: 三亚
+2015-06-24 15:02:13,950 - INFO: all_search_app65
+2015-06-24 15:02:13,950 - INFO: 完全一致
+2015-06-24 15:02:13,973 - INFO: start http getresponse_url
+2015-06-24 15:02:14,171 - INFO: 北京
+2015-06-24 15:02:14,171 - INFO: all_search_app65
+2015-06-24 15:02:14,171 - INFO: 完全一致
+2015-06-24 15:02:14,196 - INFO: start http getresponse_url
+2015-06-24 15:02:14,369 - INFO: 广州
+2015-06-24 15:02:14,369 - INFO: all_search_app65
+2015-06-24 15:02:14,369 - INFO: 完全一致
+2015-06-24 15:02:14,388 - INFO: start http getresponse_url
+2015-06-24 15:02:15,108 - INFO: 成都海南三亚
+2015-06-24 15:02:15,108 - INFO: all_search_app65
+2015-06-24 15:02:15,108 - INFO: 完全一致
+2015-06-24 15:02:15,127 - INFO: start http getresponse_url
+2015-06-24 15:02:15,288 - INFO: 海南省三亚
+2015-06-24 15:02:15,288 - INFO: all_search_app65
+2015-06-24 15:02:15,288 - INFO: 完全一致
+2015-06-24 15:02:15,311 - INFO: start http getresponse_url
+2015-06-24 15:02:15,473 - INFO: 海南省三亚市
+2015-06-24 15:02:15,473 - INFO: all_search_app65
+2015-06-24 15:02:15,473 - INFO: 完全一致
+2015-06-24 15:02:15,496 - INFO: start http getresponse_url
+2015-06-24 15:02:15,650 - INFO: 海南
+2015-06-24 15:02:15,650 - INFO: all_search_app65
+2015-06-24 15:02:15,651 - INFO: 完全一致
+2015-06-24 15:02:15,673 - INFO: start http getresponse_url
+2015-06-24 15:02:15,871 - INFO: SHANGHAI
+2015-06-24 15:02:15,871 - INFO: all_search_app65
+2015-06-24 15:02:15,871 - INFO: 完全一致
+2015-06-24 15:02:15,895 - INFO: start http getresponse_url
+2015-06-24 15:02:16,101 - INFO: shanghai
+2015-06-24 15:02:16,101 - INFO: all_search_app65
+2015-06-24 15:02:16,101 - INFO: 完全一致
+2015-06-24 15:02:16,124 - INFO: start http getresponse_url
+2015-06-24 15:02:16,321 - INFO: 上海市
+2015-06-24 15:02:16,321 - INFO: all_search_app65
+2015-06-24 15:02:16,322 - INFO: 完全一致
+2015-06-24 15:02:16,342 - INFO: start http getresponse_url
+2015-06-24 15:02:16,493 - INFO: 邢台县
+2015-06-24 15:02:16,493 - INFO: all_search_app65
+2015-06-24 15:02:16,493 - INFO: 完全一致
+2015-06-24 15:02:16,513 - INFO: start http getresponse_url
+2015-06-24 15:02:16,674 - INFO: 香港
+2015-06-24 15:02:16,674 - INFO: all_search_app65
+2015-06-24 15:02:16,674 - INFO: 完全一致
+2015-06-24 15:02:16,691 - INFO: start http getresponse_url
+2015-06-24 15:02:16,842 - INFO: hongkong
+2015-06-24 15:02:16,842 - INFO: all_search_app65
+2015-06-24 15:02:16,842 - INFO: 完全一致
+2015-06-24 15:02:16,861 - INFO: start http getresponse_url
+2015-06-24 15:02:17,006 - INFO: 澳门
+2015-06-24 15:02:17,006 - INFO: all_search_app65
+2015-06-24 15:02:17,007 - INFO: 完全一致
+2015-06-24 15:02:17,026 - INFO: start http getresponse_url
+2015-06-24 15:02:17,190 - INFO: Macau
+2015-06-24 15:02:17,190 - INFO: all_search_app65
+2015-06-24 15:02:17,190 - INFO: 完全一致
+2015-06-24 15:02:17,207 - INFO: start http getresponse_url
+2015-06-24 15:02:17,359 - INFO: 台湾
+2015-06-24 15:02:17,359 - INFO: all_search_app65
+2015-06-24 15:02:17,359 - INFO: 完全一致
+2015-06-24 15:02:17,381 - INFO: start http getresponse_url
+2015-06-24 15:02:17,528 - INFO: Taiwan
+2015-06-24 15:02:17,528 - INFO: all_search_app65
+2015-06-24 15:02:17,528 - INFO: 完全一致
+2015-06-24 15:02:17,549 - INFO: start http getresponse_url
+2015-06-24 15:02:17,743 - INFO: 纽约
+2015-06-24 15:02:17,743 - INFO: all_search_app65
+2015-06-24 15:02:17,743 - INFO: 完全一致
+2015-06-24 15:02:17,766 - INFO: start http getresponse_url
+2015-06-24 15:02:17,921 - INFO: 东京
+2015-06-24 15:02:17,921 - INFO: all_search_app65
+2015-06-24 15:02:17,921 - INFO: 完全一致
+2015-06-24 15:02:17,946 - INFO: start http getresponse_url
+2015-06-24 15:02:21,132 - INFO: 大阪
+2015-06-24 15:02:21,132 - INFO: all_search_app65
+2015-06-24 15:02:21,132 - INFO: 完全一致
+2015-06-24 15:02:21,157 - INFO: start http getresponse_url
+2015-06-24 15:02:21,318 - INFO: 巴黎
+2015-06-24 15:02:21,318 - INFO: all_search_app65
+2015-06-24 15:02:21,318 - INFO: 完全一致
+2015-06-24 15:02:21,341 - INFO: start http getresponse_url
+2015-06-24 15:02:21,500 - INFO: 法国巴黎
+2015-06-24 15:02:21,500 - INFO: all_search_app65
+2015-06-24 15:02:21,500 - INFO: 完全一致
+2015-06-24 15:02:21,523 - INFO: start http getresponse_url
+2015-06-24 15:02:21,690 - INFO: 日本东京
+2015-06-24 15:02:21,690 - INFO: all_search_app65
+2015-06-24 15:02:21,690 - INFO: 完全一致
+2015-06-24 15:02:21,716 - INFO: start http getresponse_url
+2015-06-24 15:02:21,874 - INFO: Paris
+2015-06-24 15:02:21,874 - INFO: all_search_app65
+2015-06-24 15:02:21,874 - INFO: 完全一致
+2015-06-24 15:02:21,895 - INFO: start http getresponse_url
+2015-06-24 15:02:22,046 - INFO: niuyue
+2015-06-24 15:02:22,046 - INFO: all_search_app65
+2015-06-24 15:02:22,046 - INFO: 完全一致
+2015-06-24 15:02:22,065 - INFO: start http getresponse_url
+2015-06-24 15:02:22,219 - INFO: 法国
+2015-06-24 15:02:22,220 - INFO: all_search_app65
+2015-06-24 15:02:22,220 - INFO: 完全一致
+2015-06-24 15:02:22,237 - INFO: start http getresponse_url
+2015-06-24 15:02:22,390 - INFO: 中国
+2015-06-24 15:02:22,391 - INFO: all_search_app65
+2015-06-24 15:02:22,391 - INFO: 完全一致
+2015-06-24 15:02:22,408 - INFO: start http getresponse_url
+2015-06-24 15:02:22,548 - INFO: 辽宁
+2015-06-24 15:02:22,549 - INFO: all_search_app65
+2015-06-24 15:02:22,549 - INFO: 完全一致
+2015-06-24 15:02:22,566 - INFO: start http getresponse_url
+2015-06-24 15:02:22,737 - INFO: liaoning
+2015-06-24 15:02:22,737 - INFO: all_search_app65
+2015-06-24 15:02:22,737 - INFO: 完全一致
+2015-06-24 15:02:22,756 - INFO: start http getresponse_url
+2015-06-24 15:02:22,914 - INFO: France
+2015-06-24 15:02:22,914 - INFO: all_search_app65
+2015-06-24 15:02:22,914 - INFO: 完全一致
+2015-06-24 15:02:22,936 - INFO: start http getresponse_url
+2015-06-24 15:02:23,084 - INFO: france
+2015-06-24 15:02:23,085 - INFO: all_search_app65
+2015-06-24 15:02:23,085 - INFO: 完全一致
+2015-06-24 15:02:23,108 - INFO: start http getresponse_url
+2015-06-24 15:02:23,262 - INFO: faguo
+2015-06-24 15:02:23,262 - INFO: all_search_app65
+2015-06-24 15:02:23,262 - INFO: 完全一致
+2015-06-24 15:02:23,285 - INFO: start http getresponse_url
+2015-06-24 15:02:23,414 - INFO: 订单
+2015-06-24 15:02:23,414 - INFO: all_search_app65
+2015-06-24 15:02:23,414 - INFO: 完全一致
+2015-06-24 15:02:23,438 - INFO: start http getresponse_url
+2015-06-24 15:02:23,568 - INFO: 游轮
+2015-06-24 15:02:23,568 - INFO: all_search_app65
+2015-06-24 15:02:23,568 - INFO: 完全一致
+2015-06-24 15:02:23,586 - INFO: start http getresponse_url
+2015-06-24 15:02:23,717 - INFO: 签证
+2015-06-24 15:02:23,719 - INFO: all_search_app65
+2015-06-24 15:02:23,719 - INFO: 完全一致
+2015-06-24 15:02:23,740 - INFO: start http getresponse_url
+2015-06-24 15:02:23,911 - INFO: 港口
+2015-06-24 15:02:23,911 - INFO: all_search_app65
+2015-06-24 15:02:23,911 - INFO: 完全一致
+2015-06-24 15:02:23,934 - INFO: start http getresponse_url
+2015-06-24 15:02:24,061 - INFO: 用车
+2015-06-24 15:02:24,061 - INFO: all_search_app65
+2015-06-24 15:02:24,062 - INFO: 完全一致
+2015-06-24 15:02:24,084 - INFO: start http getresponse_url
+2015-06-24 15:02:24,276 - INFO: 娱乐
+2015-06-24 15:02:24,276 - INFO: all_search_app65
+2015-06-24 15:02:24,276 - INFO: 完全一致
+2015-06-24 15:02:24,278 - INFO: start compile_result
+2015-06-24 15:02:24,279 - INFO: start get keyword
+2015-06-24 15:02:37,826 - INFO: start http getresponse_url
+2015-06-24 15:02:38,036 - INFO: 附近
+2015-06-24 15:02:38,036 - INFO: all_search_app66
+2015-06-24 15:02:38,036 - INFO: 完全一致
+2015-06-24 15:02:38,059 - INFO: start http getresponse_url
+2015-06-24 15:02:38,190 - INFO: 机票
+2015-06-24 15:02:38,190 - INFO: all_search_app66
+2015-06-24 15:02:38,190 - INFO: 完全一致
+2015-06-24 15:02:38,213 - INFO: start http getresponse_url
+2015-06-24 15:02:38,368 - INFO: 飞机票
+2015-06-24 15:02:38,368 - INFO: all_search_app66
+2015-06-24 15:02:38,368 - INFO: 完全一致
+2015-06-24 15:02:38,391 - INFO: start http getresponse_url
+2015-06-24 15:02:38,538 - INFO: 飞机
+2015-06-24 15:02:38,538 - INFO: all_search_app66
+2015-06-24 15:02:38,538 - INFO: 完全一致
+2015-06-24 15:02:38,561 - INFO: start http getresponse_url
+2015-06-24 15:02:38,711 - INFO: 航空
+2015-06-24 15:02:38,711 - INFO: all_search_app66
+2015-06-24 15:02:38,711 - INFO: 完全一致
+2015-06-24 15:02:38,736 - INFO: start http getresponse_url
+2015-06-24 15:02:38,881 - INFO: 东方航空
+2015-06-24 15:02:38,881 - INFO: all_search_app66
+2015-06-24 15:02:38,881 - INFO: 完全一致
+2015-06-24 15:02:38,904 - INFO: start http getresponse_url
+2015-06-24 15:02:39,111 - INFO: 酒店
+2015-06-24 15:02:39,111 - INFO: all_search_app66
+2015-06-24 15:02:39,111 - INFO: 完全一致
+2015-06-24 15:02:39,134 - INFO: start http getresponse_url
+2015-06-24 15:02:39,342 - INFO: 旅馆
+2015-06-24 15:02:39,342 - INFO: all_search_app66
+2015-06-24 15:02:39,342 - INFO: 完全一致
+2015-06-24 15:02:39,365 - INFO: start http getresponse_url
+2015-06-24 15:02:39,565 - INFO: 宾馆
+2015-06-24 15:02:39,565 - INFO: all_search_app66
+2015-06-24 15:02:39,565 - INFO: 完全一致
+2015-06-24 15:02:39,589 - INFO: start http getresponse_url
+2015-06-24 15:02:39,799 - INFO: 住宿
+2015-06-24 15:02:39,799 - INFO: all_search_app66
+2015-06-24 15:02:39,799 - INFO: 完全一致
+2015-06-24 15:02:39,822 - INFO: start http getresponse_url
+2015-06-24 15:02:40,028 - INFO: 旅店
+2015-06-24 15:02:40,028 - INFO: all_search_app66
+2015-06-24 15:02:40,028 - INFO: 完全一致
+2015-06-24 15:02:40,052 - INFO: start http getresponse_url
+2015-06-24 15:02:40,262 - INFO: 旅社
+2015-06-24 15:02:40,262 - INFO: all_search_app66
+2015-06-24 15:02:40,262 - INFO: 完全一致
+2015-06-24 15:02:40,283 - INFO: start http getresponse_url
+2015-06-24 15:02:40,421 - INFO: 门票
+2015-06-24 15:02:40,421 - INFO: all_search_app66
+2015-06-24 15:02:40,421 - INFO: 完全一致
+2015-06-24 15:02:40,446 - INFO: start http getresponse_url
+2015-06-24 15:02:40,588 - INFO: 景点门票
+2015-06-24 15:02:40,588 - INFO: all_search_app66
+2015-06-24 15:02:40,588 - INFO: 完全一致
+2015-06-24 15:02:40,611 - INFO: start http getresponse_url
+2015-06-24 15:02:40,786 - INFO: 景点
+2015-06-24 15:02:40,786 - INFO: all_search_app66
+2015-06-24 15:02:40,786 - INFO: 完全一致
+2015-06-24 15:02:40,809 - INFO: start http getresponse_url
+2015-06-24 15:02:40,940 - INFO: 攻略
+2015-06-24 15:02:40,940 - INFO: all_search_app66
+2015-06-24 15:02:40,940 - INFO: 完全一致
+2015-06-24 15:02:40,963 - INFO: start http getresponse_url
+2015-06-24 15:02:41,134 - INFO: 旅游
+2015-06-24 15:02:41,134 - INFO: all_search_app66
+2015-06-24 15:02:41,135 - INFO: 完全一致
+2015-06-24 15:02:41,155 - INFO: start http getresponse_url
+2015-06-24 15:02:41,309 - INFO: 跟团游
+2015-06-24 15:02:41,309 - INFO: all_search_app66
+2015-06-24 15:02:41,311 - INFO: 完全一致
+2015-06-24 15:02:41,332 - INFO: start http getresponse_url
+2015-06-24 15:02:41,487 - INFO: 旅行社
+2015-06-24 15:02:41,489 - INFO: all_search_app66
+2015-06-24 15:02:41,489 - INFO: 完全一致
+2015-06-24 15:02:41,513 - INFO: start http getresponse_url
+2015-06-24 15:02:41,664 - INFO: 旅游团
+2015-06-24 15:02:41,664 - INFO: all_search_app66
+2015-06-24 15:02:41,664 - INFO: 完全一致
+2015-06-24 15:02:41,687 - INFO: start http getresponse_url
+2015-06-24 15:02:41,834 - INFO: 自由行
+2015-06-24 15:02:41,834 - INFO: all_search_app66
+2015-06-24 15:02:41,834 - INFO: 完全一致
+2015-06-24 15:02:41,858 - INFO: start http getresponse_url
+2015-06-24 15:02:42,015 - INFO: 团购
+2015-06-24 15:02:42,015 - INFO: all_search_app66
+2015-06-24 15:02:42,015 - INFO: 完全一致
+2015-06-24 15:02:42,036 - INFO: start http getresponse_url
+2015-06-24 15:02:42,187 - INFO: 火车票
+2015-06-24 15:02:42,187 - INFO: all_search_app66
+2015-06-24 15:02:42,187 - INFO: 完全一致
+2015-06-24 15:02:42,207 - INFO: start http getresponse_url
+2015-06-24 15:02:42,338 - INFO: 火车
+2015-06-24 15:02:42,338 - INFO: all_search_app66
+2015-06-24 15:02:42,338 - INFO: 完全一致
+2015-06-24 15:02:42,361 - INFO: start http getresponse_url
+2015-06-24 15:02:42,500 - INFO: 列车
+2015-06-24 15:02:42,502 - INFO: all_search_app66
+2015-06-24 15:02:42,502 - INFO: 完全一致
+2015-06-24 15:02:42,523 - INFO: start http getresponse_url
+2015-06-24 15:02:42,655 - INFO: 高铁
+2015-06-24 15:02:42,655 - INFO: all_search_app66
+2015-06-24 15:02:42,655 - INFO: 完全一致
+2015-06-24 15:02:42,677 - INFO: start http getresponse_url
+2015-06-24 15:02:42,832 - INFO: 动车
+2015-06-24 15:02:42,832 - INFO: all_search_app66
+2015-06-24 15:02:42,832 - INFO: 完全一致
+2015-06-24 15:02:42,855 - INFO: start http getresponse_url
+2015-06-24 15:02:42,994 - INFO: 汽车
+2015-06-24 15:02:42,994 - INFO: all_search_app66
+2015-06-24 15:02:42,994 - INFO: 完全一致
+2015-06-24 15:02:43,019 - INFO: start http getresponse_url
+2015-06-24 15:02:43,186 - INFO: 汽车票
+2015-06-24 15:02:43,186 - INFO: all_search_app66
+2015-06-24 15:02:43,186 - INFO: 完全一致
+2015-06-24 15:02:43,209 - INFO: start http getresponse_url
+2015-06-24 15:02:43,388 - INFO: 当地
+2015-06-24 15:02:43,388 - INFO: all_search_app66
+2015-06-24 15:02:43,388 - INFO: 完全一致
+2015-06-24 15:02:43,410 - INFO: start http getresponse_url
+2015-06-24 15:02:43,555 - INFO: 导游
+2015-06-24 15:02:43,555 - INFO: all_search_app66
+2015-06-24 15:02:43,555 - INFO: 完全一致
+2015-06-24 15:02:43,578 - INFO: start http getresponse_url
+2015-06-24 15:02:43,720 - INFO: 地接
+2015-06-24 15:02:43,720 - INFO: all_search_app66
+2015-06-24 15:02:43,720 - INFO: 完全一致
+2015-06-24 15:02:43,743 - INFO: start http getresponse_url
+2015-06-24 15:02:43,877 - INFO: 保险
+2015-06-24 15:02:43,877 - INFO: all_search_app66
+2015-06-24 15:02:43,877 - INFO: 完全一致
+2015-06-24 15:02:43,900 - INFO: start http getresponse_url
+2015-06-24 15:02:44,023 - INFO: 
+FJ411
+2015-06-24 15:02:44,023 - INFO: all_search_app66
+2015-06-24 15:02:44,023 - INFO: 完全一致
+2015-06-24 15:02:44,046 - INFO: start http getresponse_url
+2015-06-24 15:02:44,395 - INFO: S6010
+2015-06-24 15:02:44,395 - INFO: all_search_app66
+2015-06-24 15:02:44,395 - INFO: 完全一致
+2015-06-24 15:02:44,417 - INFO: start http getresponse_url
+2015-06-24 15:02:44,549 - INFO: VS4241
+2015-06-24 15:02:44,549 - INFO: all_search_app66
+2015-06-24 15:02:44,549 - INFO: 完全一致
+2015-06-24 15:02:44,573 - INFO: start http getresponse_url
+2015-06-24 15:02:44,921 - INFO: S48765
+2015-06-24 15:02:44,921 - INFO: all_search_app66
+2015-06-24 15:02:44,921 - INFO: 完全一致
+2015-06-24 15:02:44,946 - INFO: start http getresponse_url
+2015-06-24 15:02:45,115 - INFO: 3U8952
+2015-06-24 15:02:45,117 - INFO: all_search_app66
+2015-06-24 15:02:45,117 - INFO: 完全一致
+2015-06-24 15:02:45,140 - INFO: start http getresponse_url
+2015-06-24 15:02:45,492 - INFO: s48020
+2015-06-24 15:02:45,492 - INFO: all_search_app66
+2015-06-24 15:02:45,493 - INFO: 完全一致
+2015-06-24 15:02:45,516 - INFO: start http getresponse_url
+2015-06-24 15:02:45,851 - INFO: S
+2015-06-24 15:02:45,851 - INFO: all_search_app66
+2015-06-24 15:02:45,851 - INFO: 完全一致
+2015-06-24 15:02:45,874 - INFO: start http getresponse_url
+2015-06-24 15:02:46,039 - INFO: S6
+2015-06-24 15:02:46,039 - INFO: all_search_app66
+2015-06-24 15:02:46,039 - INFO: 完全一致
+2015-06-24 15:02:46,062 - INFO: start http getresponse_url
+2015-06-24 15:02:46,239 - INFO: S60
+2015-06-24 15:02:46,239 - INFO: all_search_app66
+2015-06-24 15:02:46,239 - INFO: 完全一致
+2015-06-24 15:02:46,256 - INFO: start http getresponse_url
+2015-06-24 15:02:46,617 - INFO: S601
+2015-06-24 15:02:46,618 - INFO: all_search_app66
+2015-06-24 15:02:46,618 - INFO: 完全一致
+2015-06-24 15:02:46,638 - INFO: start http getresponse_url
+2015-06-24 15:02:46,806 - INFO: VS4
+2015-06-24 15:02:46,806 - INFO: all_search_app66
+2015-06-24 15:02:46,806 - INFO: 完全一致
+2015-06-24 15:02:46,828 - INFO: start http getresponse_url
+2015-06-24 15:02:46,987 - INFO: VS42
+2015-06-24 15:02:46,987 - INFO: all_search_app66
+2015-06-24 15:02:46,987 - INFO: 完全一致
+2015-06-24 15:02:47,010 - INFO: start http getresponse_url
+2015-06-24 15:02:47,157 - INFO: mu532
+2015-06-24 15:02:47,157 - INFO: all_search_app66
+2015-06-24 15:02:47,157 - INFO: 完全一致
+2015-06-24 15:02:47,180 - INFO: start http getresponse_url
+2015-06-24 15:02:47,397 - INFO: mu5537
+2015-06-24 15:02:47,397 - INFO: all_search_app66
+2015-06-24 15:02:47,398 - INFO: 完全一致
+2015-06-24 15:02:47,417 - INFO: start http getresponse_url
+2015-06-24 15:02:47,552 - INFO: QG8818
+2015-06-24 15:02:47,552 - INFO: all_search_app66
+2015-06-24 15:02:47,552 - INFO: 完全一致
+2015-06-24 15:02:47,573 - INFO: start http getresponse_url
+2015-06-24 15:02:47,707 - INFO: 上海浦东国际机场
+2015-06-24 15:02:47,707 - INFO: all_search_app66
+2015-06-24 15:02:47,707 - INFO: 完全一致
+2015-06-24 15:02:47,730 - INFO: start http getresponse_url
+2015-06-24 15:02:47,927 - INFO: 上海虹桥机场
+2015-06-24 15:02:47,927 - INFO: all_search_app66
+2015-06-24 15:02:47,927 - INFO: 完全一致
+2015-06-24 15:02:47,950 - INFO: start http getresponse_url
+2015-06-24 15:02:48,155 - INFO: 首都机场
+2015-06-24 15:02:48,155 - INFO: all_search_app66
+2015-06-24 15:02:48,155 - INFO: 完全一致
+2015-06-24 15:02:48,178 - INFO: start http getresponse_url
+2015-06-24 15:02:51,375 - INFO: 深圳宝安机场
+2015-06-24 15:02:51,375 - INFO: all_search_app66
+2015-06-24 15:02:51,375 - INFO: 完全一致
+2015-06-24 15:02:51,400 - INFO: start http getresponse_url
+2015-06-24 15:02:51,543 - INFO: 成都双流国际机场
+2015-06-24 15:02:51,543 - INFO: all_search_app66
+2015-06-24 15:02:51,543 - INFO: 完全一致
+2015-06-24 15:02:51,568 - INFO: start http getresponse_url
+2015-06-24 15:02:52,658 - INFO: 四川省成都双流机场
+2015-06-24 15:02:52,660 - INFO: all_search_app66
+2015-06-24 15:02:52,660 - INFO: 完全一致
+2015-06-24 15:02:52,684 - INFO: start http getresponse_url
+2015-06-24 15:02:52,875 - INFO: 双流机场
+2015-06-24 15:02:52,875 - INFO: all_search_app66
+2015-06-24 15:02:52,875 - INFO: 完全一致
+2015-06-24 15:02:52,900 - INFO: start http getresponse_url
+2015-06-24 15:02:53,441 - INFO: 四川双流机场
+2015-06-24 15:02:53,443 - INFO: all_search_app66
+2015-06-24 15:02:53,443 - INFO: 完全一致
+2015-06-24 15:02:53,466 - INFO: start http getresponse_url
+2015-06-24 15:02:54,023 - INFO: 本迪戈国际机场
+2015-06-24 15:02:54,023 - INFO: all_search_app66
+2015-06-24 15:02:54,023 - INFO: 完全一致
+2015-06-24 15:02:54,045 - INFO: start http getresponse_url
+2015-06-24 15:02:54,187 - INFO: NRT
+2015-06-24 15:02:54,187 - INFO: all_search_app66
+2015-06-24 15:02:54,187 - INFO: 完全一致
+2015-06-24 15:02:54,210 - INFO: start http getresponse_url
+2015-06-24 15:02:54,345 - INFO: 成田国际机场
+2015-06-24 15:02:54,345 - INFO: all_search_app66
+2015-06-24 15:02:54,345 - INFO: 完全一致
+2015-06-24 15:02:54,369 - INFO: start http getresponse_url
+2015-06-24 15:02:54,503 - INFO: HND
+2015-06-24 15:02:54,503 - INFO: all_search_app66
+2015-06-24 15:02:54,503 - INFO: 完全一致
+2015-06-24 15:02:54,526 - INFO: start http getresponse_url
+2015-06-24 15:02:54,698 - INFO: 羽田机场
+2015-06-24 15:02:54,698 - INFO: all_search_app66
+2015-06-24 15:02:54,698 - INFO: 完全一致
+2015-06-24 15:02:54,717 - INFO: start http getresponse_url
+2015-06-24 15:02:54,841 - INFO: ITM 
+2015-06-24 15:02:54,841 - INFO: all_search_app66
+2015-06-24 15:02:54,841 - INFO: 完全一致
+2015-06-24 15:02:54,858 - INFO: start http getresponse_url
+2015-06-24 15:02:55,512 - INFO: 大阪伊丹国际机场
+2015-06-24 15:02:55,512 - INFO: all_search_app66
+2015-06-24 15:02:55,512 - INFO: 完全一致
+2015-06-24 15:02:55,536 - INFO: start http getresponse_url
+2015-06-24 15:02:55,681 - INFO: KIX
+2015-06-24 15:02:55,681 - INFO: all_search_app66
+2015-06-24 15:02:55,683 - INFO: 完全一致
+2015-06-24 15:02:55,700 - INFO: start http getresponse_url
+2015-06-24 15:02:56,338 - INFO: 大阪关西国际机场
+2015-06-24 15:02:56,338 - INFO: all_search_app66
+2015-06-24 15:02:56,338 - INFO: 完全一致
+2015-06-24 15:02:56,361 - INFO: start http getresponse_url
+2015-06-24 15:02:56,497 - INFO: ICN
+2015-06-24 15:02:56,497 - INFO: all_search_app66
+2015-06-24 15:02:56,497 - INFO: 完全一致
+2015-06-24 15:02:56,519 - INFO: start http getresponse_url
+2015-06-24 15:02:56,660 - INFO: 仁川国际机场
+2015-06-24 15:02:56,660 - INFO: all_search_app66
+2015-06-24 15:02:56,660 - INFO: 完全一致
+2015-06-24 15:02:56,683 - INFO: start http getresponse_url
+2015-06-24 15:02:56,828 - INFO: PUS
+2015-06-24 15:02:56,828 - INFO: all_search_app66
+2015-06-24 15:02:56,828 - INFO: 完全一致
+2015-06-24 15:02:56,852 - INFO: start http getresponse_url
+2015-06-24 15:02:57,026 - INFO: 釜山金海国际机场
+2015-06-24 15:02:57,028 - INFO: all_search_app66
+2015-06-24 15:02:57,028 - INFO: 完全一致
+2015-06-24 15:02:57,051 - INFO: start http getresponse_url
+2015-06-24 15:02:57,203 - INFO: SIN
+2015-06-24 15:02:57,203 - INFO: all_search_app66
+2015-06-24 15:02:57,203 - INFO: 完全一致
+2015-06-24 15:02:57,226 - INFO: start http getresponse_url
+2015-06-24 15:02:57,404 - INFO: 新加坡樟宜国际机场
+2015-06-24 15:02:57,404 - INFO: all_search_app66
+2015-06-24 15:02:57,404 - INFO: 完全一致
+2015-06-24 15:02:57,427 - INFO: start http getresponse_url
+2015-06-24 15:02:57,555 - INFO: KUL
+2015-06-24 15:02:57,555 - INFO: all_search_app66
+2015-06-24 15:02:57,555 - INFO: 完全一致
+2015-06-24 15:02:57,573 - INFO: start http getresponse_url
+2015-06-24 15:02:57,709 - INFO: 吉隆坡国际机场
+2015-06-24 15:02:57,709 - INFO: all_search_app66
+2015-06-24 15:02:57,710 - INFO: 完全一致
+2015-06-24 15:02:57,730 - INFO: start http getresponse_url
+2015-06-24 15:02:58,243 - INFO: SGN胡志明市新山机场
+2015-06-24 15:02:58,243 - INFO: all_search_app66
+2015-06-24 15:02:58,243 - INFO: 完全一致
+2015-06-24 15:02:58,266 - INFO: start http getresponse_url
+2015-06-24 15:02:58,789 - INFO: BKK廊曼国际机场
+2015-06-24 15:02:58,789 - INFO: all_search_app66
+2015-06-24 15:02:58,789 - INFO: 完全一致
+2015-06-24 15:02:58,812 - INFO: start http getresponse_url
+2015-06-24 15:02:58,940 - INFO: DEL
+2015-06-24 15:02:58,940 - INFO: all_search_app66
+2015-06-24 15:02:58,940 - INFO: 完全一致
+2015-06-24 15:02:58,963 - INFO: start http getresponse_url
+2015-06-24 15:02:59,150 - INFO: 新德里国际
+2015-06-24 15:02:59,150 - INFO: all_search_app66
+2015-06-24 15:02:59,150 - INFO: 完全一致
+2015-06-24 15:02:59,174 - INFO: start http getresponse_url
+2015-06-24 15:02:59,375 - INFO: 东方明珠
+2015-06-24 15:02:59,377 - INFO: all_search_app66
+2015-06-24 15:02:59,377 - INFO: 完全一致
+2015-06-24 15:02:59,400 - INFO: start http getresponse_url
+2015-06-24 15:02:59,607 - INFO: dongfangmingzhu
+2015-06-24 15:02:59,607 - INFO: all_search_app66
+2015-06-24 15:02:59,608 - INFO: 完全一致
+2015-06-24 15:02:59,631 - INFO: start http getresponse_url
+2015-06-24 15:02:59,796 - INFO: 九寨沟风景区
+2015-06-24 15:02:59,796 - INFO: all_search_app66
+2015-06-24 15:02:59,796 - INFO: 完全一致
+2015-06-24 15:02:59,819 - INFO: start http getresponse_url
+2015-06-24 15:02:59,971 - INFO: jiuzhaigoufengjingqu
+2015-06-24 15:02:59,971 - INFO: all_search_app66
+2015-06-24 15:02:59,971 - INFO: 完全一致
+2015-06-24 15:02:59,990 - INFO: start http getresponse_url
+2015-06-24 15:03:00,161 - INFO: 埃菲尔铁塔
+2015-06-24 15:03:00,163 - INFO: all_search_app66
+2015-06-24 15:03:00,163 - INFO: 完全一致
+2015-06-24 15:03:00,187 - INFO: start http getresponse_url
+2015-06-24 15:03:00,359 - INFO: Eiffel Tower
+2015-06-24 15:03:00,359 - INFO: all_search_app66
+2015-06-24 15:03:00,359 - INFO: 完全一致
+2015-06-24 15:03:00,378 - INFO: start http getresponse_url
+2015-06-24 15:03:00,532 - INFO: aifeiertieta
+2015-06-24 15:03:00,532 - INFO: all_search_app66
+2015-06-24 15:03:00,532 - INFO: 完全一致
+2015-06-24 15:03:00,551 - INFO: start http getresponse_url
+2015-06-24 15:03:00,683 - INFO: 
+世纪公园
+2015-06-24 15:03:00,683 - INFO: all_search_app66
+2015-06-24 15:03:00,683 - INFO: 完全一致
+2015-06-24 15:03:00,706 - INFO: start http getresponse_url
+2015-06-24 15:03:00,913 - INFO: shijigongyuan
+2015-06-24 15:03:00,913 - INFO: all_search_app66
+2015-06-24 15:03:00,913 - INFO: 完全一致
+2015-06-24 15:03:00,931 - INFO: start http getresponse_url
+2015-06-24 15:03:01,053 - INFO: 
+圆明园
+2015-06-24 15:03:01,053 - INFO: all_search_app66
+2015-06-24 15:03:01,053 - INFO: 完全一致
+2015-06-24 15:03:01,072 - INFO: start http getresponse_url
+2015-06-24 15:03:01,272 - INFO: yuanmingyuan
+2015-06-24 15:03:01,272 - INFO: all_search_app66
+2015-06-24 15:03:01,272 - INFO: 完全一致
+2015-06-24 15:03:01,289 - INFO: start http getresponse_url
+2015-06-24 15:03:01,897 - INFO: 大名湖景区门票
+2015-06-24 15:03:01,897 - INFO: all_search_app66
+2015-06-24 15:03:01,897 - INFO: 完全一致
+2015-06-24 15:03:01,918 - INFO: start http getresponse_url
+2015-06-24 15:03:02,095 - INFO: 九寨沟风景区门票
+2015-06-24 15:03:02,095 - INFO: all_search_app66
+2015-06-24 15:03:02,095 - INFO: 完全一致
+2015-06-24 15:03:02,119 - INFO: start http getresponse_url
+2015-06-24 15:03:02,288 - INFO: 大明湖门票
+2015-06-24 15:03:02,288 - INFO: all_search_app66
+2015-06-24 15:03:02,288 - INFO: 完全一致
+2015-06-24 15:03:02,311 - INFO: start http getresponse_url
+2015-06-24 15:03:02,487 - INFO: 西湖门票
+2015-06-24 15:03:02,487 - INFO: all_search_app66
+2015-06-24 15:03:02,487 - INFO: 完全一致
+2015-06-24 15:03:02,510 - INFO: start http getresponse_url
+2015-06-24 15:03:03,052 - INFO: 甘肃博物馆门票
+2015-06-24 15:03:03,052 - INFO: all_search_app66
+2015-06-24 15:03:03,052 - INFO: 完全一致
+2015-06-24 15:03:03,075 - INFO: start http getresponse_url
+2015-06-24 15:03:03,247 - INFO: 凯旋门门票
+2015-06-24 15:03:03,247 - INFO: all_search_app66
+2015-06-24 15:03:03,247 - INFO: 完全一致
+2015-06-24 15:03:03,272 - INFO: start http getresponse_url
+2015-06-24 15:03:03,390 - INFO: 巴黎圣母院门票
+
+2015-06-24 15:03:03,390 - INFO: all_search_app66
+2015-06-24 15:03:03,390 - INFO: 完全一致
+2015-06-24 15:03:03,414 - INFO: start http getresponse_url
+2015-06-24 15:03:03,951 - INFO: 爱上海门票
+2015-06-24 15:03:03,953 - INFO: all_search_app66
+2015-06-24 15:03:03,953 - INFO: 完全一致
+2015-06-24 15:03:03,976 - INFO: start http getresponse_url
+2015-06-24 15:03:04,145 - INFO: 故宫门票
+2015-06-24 15:03:04,145 - INFO: all_search_app66
+2015-06-24 15:03:04,145 - INFO: 完全一致
+2015-06-24 15:03:04,168 - INFO: start http getresponse_url
+2015-06-24 15:03:04,319 - INFO: 博物馆
+2015-06-24 15:03:04,319 - INFO: all_search_app66
+2015-06-24 15:03:04,319 - INFO: 完全一致
+2015-06-24 15:03:04,341 - INFO: start http getresponse_url
+2015-06-24 15:03:04,487 - INFO: 游乐场
+2015-06-24 15:03:04,487 - INFO: all_search_app66
+2015-06-24 15:03:04,487 - INFO: 完全一致
+2015-06-24 15:03:04,510 - INFO: start http getresponse_url
+2015-06-24 15:03:04,653 - INFO: 希尔顿
+2015-06-24 15:03:04,653 - INFO: all_search_app66
+2015-06-24 15:03:04,653 - INFO: 完全一致
+2015-06-24 15:03:04,677 - INFO: start http getresponse_url
+2015-06-24 15:03:04,825 - INFO: 四季
+2015-06-24 15:03:04,825 - INFO: all_search_app66
+2015-06-24 15:03:04,825 - INFO: 完全一致
+2015-06-24 15:03:04,845 - INFO: start http getresponse_url
+2015-06-24 15:03:05,016 - INFO: 喜来登
+2015-06-24 15:03:05,016 - INFO: all_search_app66
+2015-06-24 15:03:05,016 - INFO: 完全一致
+2015-06-24 15:03:05,039 - INFO: start http getresponse_url
+2015-06-24 15:03:05,193 - INFO: 洲际
+2015-06-24 15:03:05,193 - INFO: all_search_app66
+2015-06-24 15:03:05,193 - INFO: 完全一致
+2015-06-24 15:03:05,213 - INFO: start http getresponse_url
+2015-06-24 15:03:05,384 - INFO: 如家
+2015-06-24 15:03:05,385 - INFO: all_search_app66
+2015-06-24 15:03:05,385 - INFO: 完全一致
+2015-06-24 15:03:05,405 - INFO: start http getresponse_url
+2015-06-24 15:03:05,582 - INFO: 如家快捷酒店
+2015-06-24 15:03:05,582 - INFO: all_search_app66
+2015-06-24 15:03:05,582 - INFO: 完全一致
+2015-06-24 15:03:05,608 - INFO: start http getresponse_url
+2015-06-24 15:03:05,757 - INFO: 上海希尔顿
+2015-06-24 15:03:05,757 - INFO: all_search_app66
+2015-06-24 15:03:05,759 - INFO: 完全一致
+2015-06-24 15:03:05,782 - INFO: start http getresponse_url
+2015-06-24 15:03:05,933 - INFO: 沈阳布丁
+2015-06-24 15:03:05,934 - INFO: all_search_app66
+2015-06-24 15:03:05,934 - INFO: 完全一致
+2015-06-24 15:03:05,957 - INFO: start http getresponse_url
+2015-06-24 15:03:06,519 - INFO: 香港希尔顿
+2015-06-24 15:03:06,519 - INFO: all_search_app66
+2015-06-24 15:03:06,519 - INFO: 完全一致
+2015-06-24 15:03:06,540 - INFO: start http getresponse_url
+2015-06-24 15:03:06,747 - INFO: 香港港丽酒店
+2015-06-24 15:03:06,747 - INFO: all_search_app66
+2015-06-24 15:03:06,747 - INFO: 完全一致
+2015-06-24 15:03:06,767 - INFO: start http getresponse_url
+2015-06-24 15:03:06,892 - INFO: 澳门威尼斯人
+
+2015-06-24 15:03:06,894 - INFO: all_search_app66
+2015-06-24 15:03:06,894 - INFO: 完全一致
+2015-06-24 15:03:06,917 - INFO: start http getresponse_url
+2015-06-24 15:03:07,053 - INFO: 台北喜来登
+2015-06-24 15:03:07,053 - INFO: all_search_app66
+2015-06-24 15:03:07,053 - INFO: 完全一致
+2015-06-24 15:03:07,075 - INFO: start http getresponse_url
+2015-06-24 15:03:07,217 - INFO: 巴黎洲际
+2015-06-24 15:03:07,217 - INFO: all_search_app66
+2015-06-24 15:03:07,217 - INFO: 完全一致
+2015-06-24 15:03:07,240 - INFO: start http getresponse_url
+2015-06-24 15:03:07,401 - INFO: 文华东方
+2015-06-24 15:03:07,401 - INFO: all_search_app66
+2015-06-24 15:03:07,401 - INFO: 完全一致
+2015-06-24 15:03:07,424 - INFO: start http getresponse_url
+2015-06-24 15:03:07,617 - INFO: 上海
+2015-06-24 15:03:07,617 - INFO: all_search_app66
+2015-06-24 15:03:07,617 - INFO: 完全一致
+2015-06-24 15:03:07,641 - INFO: start http getresponse_url
+2015-06-24 15:03:07,796 - INFO: 三亚
+2015-06-24 15:03:07,796 - INFO: all_search_app66
+2015-06-24 15:03:07,796 - INFO: 完全一致
+2015-06-24 15:03:07,819 - INFO: start http getresponse_url
