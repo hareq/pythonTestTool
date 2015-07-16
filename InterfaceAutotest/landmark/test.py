@@ -4,4 +4,6 @@ def test():
         for i in xrange(1,100):
                  a += 1
 import profile
-profile.run( "case()" )
+#profile.run( "case()" )
+
+print "aaaaaaaaa".find("b")
